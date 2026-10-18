@@ -1,0 +1,47 @@
+{
+  "run": "org-final-ledger",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 5309,
+      "sha256": "b15c9bad958d9b3ad1071218a1cc17f4aa6c315e6a27ce3fabed4c5d6aefb9f0",
+      "original_sha256": "b15c9bad958d9b3ad1071218a1cc17f4aa6c315e6a27ce3fabed4c5d6aefb9f0",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/accounting.tsv",
+      "size": 12255,
+      "sha256": "32f5246125bc05ec3133abba0baa6bbdb0bed613c88893244c2c89597a7d2a0c",
+      "original_sha256": "32f5246125bc05ec3133abba0baa6bbdb0bed613c88893244c2c89597a7d2a0c",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/execution_org.tex",
+      "size": 375,
+      "sha256": "d2473345f5511bad0a4339bfc4e72e5a13b6b9ee2187747f9c22ebee55c6d7c8",
+      "original_sha256": "d2473345f5511bad0a4339bfc4e72e5a13b6b9ee2187747f9c22ebee55c6d7c8",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/resource_summary.json",
+      "size": 13200,
+      "sha256": "675344568607dbea025fe6fe8080397fde6e1aca9e53c00bb8eba97e9ff3d520",
+      "original_sha256": "675344568607dbea025fe6fe8080397fde6e1aca9e53c00bb8eba97e9ff3d520",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 3324,
+      "sha256": "710353984588a81c200e73273c5d55a1c1fbcff4b43c99b002e655e073e62692"
+    }
+  ]
+}

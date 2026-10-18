@@ -1,0 +1,15 @@
+{
+  "scope": "File packaging, transport verification, privacy scan and syntax checks only; no scientific calculations were rerun.",
+  "exported_runs": 98,
+  "exported_members": 63922,
+  "compressed_bytes": 1221757451,
+  "largest_chunk_bytes": 41943040,
+  "complete_transport_verification": true,
+  "final_episode_files": 35840,
+  "final_episode_case_and_raw_call_bytes_unmodified": true,
+  "paper_excluded_from_git": true,
+  "known_account_identifiers_absent_from_exposed_text": true,
+  "fresh_scientific_replay_performed": false,
+  "remote_push_performed": false,
+  "anonymous_host_synchronization_verified": false
+}

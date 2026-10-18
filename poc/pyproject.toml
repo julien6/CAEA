@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "caea-poc"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Budgeted cooperative evidence acquisition on hidden trees"
+[tool.setuptools.packages.find]
+include = ["caea*"]

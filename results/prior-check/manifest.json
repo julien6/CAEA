@@ -1,0 +1,47 @@
+{
+  "run": "prior-check",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/prior_report.json",
+      "size": 38378,
+      "sha256": "995eb5e9c0c1ff866652b9d4c75a99422af9a01ab6108b15f29ed9f0db77d0ca",
+      "original_sha256": "995eb5e9c0c1ff866652b9d4c75a99422af9a01ab6108b15f29ed9f0db77d0ca",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/replay_validation.json",
+      "size": 324,
+      "sha256": "b1941c607638f627e88428a5edfb5c23d3577e8c1024b29ebdb38da6b5eecef6",
+      "original_sha256": "b1941c607638f627e88428a5edfb5c23d3577e8c1024b29ebdb38da6b5eecef6",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_prior.tex",
+      "size": 3784,
+      "sha256": "b624e96c5d1d5e95ddb72b39e6187a1de8d85fbe14ef0e642e3edbd861c67c4b",
+      "original_sha256": "b624e96c5d1d5e95ddb72b39e6187a1de8d85fbe14ef0e642e3edbd861c67c4b",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 1535,
+      "sha256": "751a31e9fcfd51aab938741a355d4da986ed47c4d6c9cc7e7ab1e0bb5bfce89f",
+      "original_sha256": "751a31e9fcfd51aab938741a355d4da986ed47c4d6c9cc7e7ab1e0bb5bfce89f",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 8872,
+      "sha256": "dd350d1c7c863b7bb139ea886f7260a1d8445d2fe889e33c5d4b5dc0f1bb030e"
+    }
+  ]
+}

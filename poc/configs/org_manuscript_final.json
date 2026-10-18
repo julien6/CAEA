@@ -1,0 +1,6 @@
+{
+  "purpose": "Synthesize frozen organization-v2 numerical, synthetic documentary and external results; use only complete source archives validated without new inference.",
+  "new_experiments": false,
+  "synthetic_source": "org-final-synthetic-recovered-v2",
+  "documentary_validation": "org-final-documentary-validation-v4"
+}

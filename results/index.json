@@ -1,0 +1,596 @@
+{
+  "schema": 1,
+  "purpose": "Reviewer transport of existing finalized and historical records; no new computation.",
+  "anonymization": "Account/host/project identifiers replaced in text metadata; algorithmic parameters and source/response content retained. Export checksums replace original transport manifests.",
+  "excluded": "Duplicate source/transport archives, source checkout copies, Slurm stdout/stderr, source commit/worktree records and original transport manifests. Scientific observations and analyses retained.",
+  "runs": {
+    "all-studies-validation": {
+      "files": 5,
+      "bytes": 5126,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "complete-accounting": {
+      "files": 4,
+      "bytes": 1847,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "complete-validation": {
+      "files": 3,
+      "bytes": 1022,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "document-oracle": {
+      "files": 44,
+      "bytes": 92614,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "final-accounting": {
+      "files": 4,
+      "bytes": 1701,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "final-unit": {
+      "files": 2,
+      "bytes": 776,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "final-validation": {
+      "files": 3,
+      "bytes": 893,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "identity-check": {
+      "files": 5,
+      "bytes": 4773,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "identity-oracle": {
+      "files": 44,
+      "bytes": 109061,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "identity7-final": {
+      "files": 53,
+      "bytes": 226994,
+      "parts": 1,
+      "redacted_files": 3
+    },
+    "llm-pilot-v1": {
+      "files": 14,
+      "bytes": 29489,
+      "parts": 1,
+      "redacted_files": 3
+    },
+    "llm-pilot-v2": {
+      "files": 21,
+      "bytes": 71791,
+      "parts": 1,
+      "redacted_files": 3
+    },
+    "llm-pilot-v3": {
+      "files": 21,
+      "bytes": 74555,
+      "parts": 1,
+      "redacted_files": 3
+    },
+    "llm-report": {
+      "files": 3,
+      "bytes": 5150,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "llm15-final": {
+      "files": 97,
+      "bytes": 350541,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "llm7-final": {
+      "files": 97,
+      "bytes": 349829,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "models-v1": {
+      "files": 7,
+      "bytes": 2722,
+      "parts": 1,
+      "redacted_files": 2
+    },
+    "numeric-report": {
+      "files": 8,
+      "bytes": 29410,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "numeric-v1": {
+      "files": 12008,
+      "bytes": 12547343,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-corpus-bundle": {
+      "files": 40,
+      "bytes": 686994,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-corpus-probe": {
+      "files": 4,
+      "bytes": 8756,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-external-llm-pilot": {
+      "files": 17,
+      "bytes": 68054,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "org-external-llm-pilot-v2": {
+      "files": 21,
+      "bytes": 104404,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "org-external-pilot": {
+      "files": 40,
+      "bytes": 482997,
+      "parts": 1,
+      "redacted_files": 2
+    },
+    "org-external-prep-v1": {
+      "files": 2,
+      "bytes": 308,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-external-prep-v2": {
+      "files": 3,
+      "bytes": 3029,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-closeout": {
+      "files": 1,
+      "bytes": 242,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-closeout-v2": {
+      "files": 3,
+      "bytes": 768,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-documentary-validation": {
+      "files": 1,
+      "bytes": 257,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-documentary-validation-v2": {
+      "files": 1,
+      "bytes": 257,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-documentary-validation-v3": {
+      "files": 1,
+      "bytes": 272,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-documentary-validation-v4": {
+      "files": 5,
+      "bytes": 1395,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-external-control": {
+      "files": 149,
+      "bytes": 4259164,
+      "parts": 1,
+      "redacted_files": 2
+    },
+    "org-final-external-llm": {
+      "files": 157,
+      "bytes": 2117470,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "org-final-external-report": {
+      "files": 5,
+      "bytes": 1191,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-ledger": {
+      "files": 5,
+      "bytes": 3324,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-main-0": {
+      "files": 3965,
+      "bytes": 127159941,
+      "parts": 4,
+      "redacted_files": 0
+    },
+    "org-final-main-1": {
+      "files": 3965,
+      "bytes": 128338284,
+      "parts": 4,
+      "redacted_files": 0
+    },
+    "org-final-main-2": {
+      "files": 3965,
+      "bytes": 127815853,
+      "parts": 4,
+      "redacted_files": 0
+    },
+    "org-final-main-3": {
+      "files": 3965,
+      "bytes": 127324027,
+      "parts": 4,
+      "redacted_files": 0
+    },
+    "org-final-main-4": {
+      "files": 3965,
+      "bytes": 127511733,
+      "parts": 4,
+      "redacted_files": 0
+    },
+    "org-final-manuscript": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-manuscript-v2": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-manuscript-v3": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-manuscript-v4": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-manuscript-v5": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-manuscript-v6": {
+      "files": 11,
+      "bytes": 27118,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-replay-0": {
+      "files": 5,
+      "bytes": 1348,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-replay-1": {
+      "files": 5,
+      "bytes": 1348,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-replay-2": {
+      "files": 5,
+      "bytes": 1349,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-replay-3": {
+      "files": 5,
+      "bytes": 1349,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-replay-4": {
+      "files": 5,
+      "bytes": 1348,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-validation": {
+      "files": 4,
+      "bytes": 616,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-validation-v2": {
+      "files": 4,
+      "bytes": 616,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-numeric-validation-v3": {
+      "files": 3,
+      "bytes": 523,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-report": {
+      "files": 4,
+      "bytes": 65447,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-robust-0": {
+      "files": 3405,
+      "bytes": 107694821,
+      "parts": 3,
+      "redacted_files": 0
+    },
+    "org-final-robust-1": {
+      "files": 3405,
+      "bytes": 105954470,
+      "parts": 3,
+      "redacted_files": 0
+    },
+    "org-final-robust-2": {
+      "files": 3405,
+      "bytes": 106729689,
+      "parts": 3,
+      "redacted_files": 0
+    },
+    "org-final-robust-3": {
+      "files": 3405,
+      "bytes": 107724674,
+      "parts": 3,
+      "redacted_files": 0
+    },
+    "org-final-robust-4": {
+      "files": 3405,
+      "bytes": 106922306,
+      "parts": 3,
+      "redacted_files": 0
+    },
+    "org-final-synthetic-llm": {
+      "files": 4,
+      "bytes": 913,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "org-final-synthetic-llm-v2-a": {
+      "files": 3,
+      "bytes": 791,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "org-final-synthetic-llm-v2-b": {
+      "files": 3,
+      "bytes": 790,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "org-final-synthetic-oracle": {
+      "files": 221,
+      "bytes": 3874607,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-final-synthetic-recovered": {
+      "files": 4,
+      "bytes": 992,
+      "parts": 1,
+      "redacted_files": 2
+    },
+    "org-final-synthetic-recovered-v2": {
+      "files": 237,
+      "bytes": 4493465,
+      "parts": 1,
+      "redacted_files": 7
+    },
+    "org-final-unit": {
+      "files": 3,
+      "bytes": 1155,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-legacy-check": {
+      "files": 5,
+      "bytes": 5154,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-llm-pilot": {
+      "files": 17,
+      "bytes": 83285,
+      "parts": 1,
+      "redacted_files": 4
+    },
+    "org-main-0": {
+      "files": 1,
+      "bytes": 431,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-main-1": {
+      "files": 1,
+      "bytes": 432,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-main-2": {
+      "files": 1,
+      "bytes": 432,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-main-3": {
+      "files": 1,
+      "bytes": 432,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-main-4": {
+      "files": 1,
+      "bytes": 432,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-numeric-layout-preview": {
+      "files": 5,
+      "bytes": 15584,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-pilot-report": {
+      "files": 4,
+      "bytes": 7447,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-pilot-v1": {
+      "files": 72,
+      "bytes": 1188952,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-robust-0": {
+      "files": 1,
+      "bytes": 565,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-robust-1": {
+      "files": 1,
+      "bytes": 564,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-robust-2": {
+      "files": 1,
+      "bytes": 565,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-robust-3": {
+      "files": 1,
+      "bytes": 565,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-robust-4": {
+      "files": 1,
+      "bytes": 565,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v1": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v2": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v3": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v4": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v5": {
+      "files": 1,
+      "bytes": 188,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "org-tests-v6": {
+      "files": 3,
+      "bytes": 1128,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "path-ablation": {
+      "files": 4009,
+      "bytes": 5700100,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "pilot-v1": {
+      "files": 543,
+      "bytes": 519247,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "prior-check": {
+      "files": 5,
+      "bytes": 8872,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "prior-robustness": {
+      "files": 8808,
+      "bytes": 10421019,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "project-accounting": {
+      "files": 4,
+      "bytes": 1923,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "strict-oracle": {
+      "files": 44,
+      "bytes": 96418,
+      "parts": 1,
+      "redacted_files": 0
+    },
+    "strict-report": {
+      "files": 3,
+      "bytes": 4821,
+      "parts": 1,
+      "redacted_files": 1
+    },
+    "strict15-final": {
+      "files": 53,
+      "bytes": 197615,
+      "parts": 1,
+      "redacted_files": 3
+    },
+    "strict7-final": {
+      "files": 53,
+      "bytes": 204931,
+      "parts": 1,
+      "redacted_files": 3
+    }
+  }
+}

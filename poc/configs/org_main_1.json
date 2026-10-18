@@ -1,0 +1,104 @@
+{
+  "schema": 2,
+  "case_seeds": [
+    10020,
+    10021,
+    10022,
+    10023,
+    10024,
+    10025,
+    10026,
+    10027,
+    10028,
+    10029,
+    10030,
+    10031,
+    10032,
+    10033,
+    10034,
+    10035,
+    10036,
+    10037,
+    10038,
+    10039
+  ],
+  "policy_seeds": [
+    0,
+    1
+  ],
+  "organizations": [
+    "CENT",
+    "P2P",
+    "COAL",
+    "MKT"
+  ],
+  "policies": [
+    "joint",
+    "myopic",
+    "caea",
+    "costpath"
+  ],
+  "settings": [
+    {
+      "name": "direct",
+      "case": {
+        "pair_fraction": 0
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "mixed",
+      "case": {
+        "pair_fraction": 0.65
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "pairs",
+      "case": {
+        "pair_fraction": 1
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "no_refs",
+      "case": {
+        "pair_fraction": 1,
+        "reference_quality": 0
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "sparse_refs",
+      "case": {
+        "reference_quality": 0.5
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "wrong_refs50",
+      "case": {
+        "wrong_refs": 0.5
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    }
+  ]
+}

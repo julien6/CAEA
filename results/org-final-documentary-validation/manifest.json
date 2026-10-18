@@ -1,0 +1,19 @@
+{
+  "run": "org-final-documentary-validation",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 504,
+      "sha256": "3aaa6b1b4be7382fa454adf2906b8bd9153dd3fb3d374a36955bd9e0cc40dfbf",
+      "original_sha256": "3aaa6b1b4be7382fa454adf2906b8bd9153dd3fb3d374a36955bd9e0cc40dfbf",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 257,
+      "sha256": "fb50edd101d439b131b59ab4aefeafaf3fa592d9e47e4b05980ba4905a5d32fc"
+    }
+  ]
+}

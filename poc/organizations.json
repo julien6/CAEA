@@ -1,0 +1,11 @@
+{
+  "format": "descriptive MOISE+-inspired mapping, not native MOISE+ XML",
+  "structural": {
+    "roles": ["coordinator", "acquirer", "interpreter"],
+    "central": {"common_scheduler": 1, "worker_slots": 3},
+    "coalition": {"worker_device_preference": "device_index modulo 2 equals worker_index modulo 2", "shared_state": true},
+    "peer": {"status": "behaviorally equivalent scheduler emulation only; no network runtime"}
+  },
+  "functional": {"goal": "acquire evidence under global cost budget", "sequence": ["discover", "open_device", "discover_folder", "read", "interpret", "merge"], "parallelism": "acquisitions from one common snapshot"},
+  "deontic": {"obligations": ["only act on exposed nodes", "pay duplicates", "retain source IDs", "do not expose evaluator annotations to policies", "respect working capacity and total budget"], "enforcement": "Environment.step and policy input interface"}
+}

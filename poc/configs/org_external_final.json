@@ -1,0 +1,44 @@
+{
+  "schema": 2,
+  "dataset": "/projects/caea/datasets/m57-public-docs/tasks",
+  "tasks": [
+    "test01",
+    "test02",
+    "test03",
+    "test04",
+    "test05",
+    "test06",
+    "test07",
+    "test08",
+    "test09",
+    "test10",
+    "test11",
+    "test12",
+    "test13",
+    "test14",
+    "test15",
+    "test16"
+  ],
+  "organizations": [
+    "CENT",
+    "P2P",
+    "COAL",
+    "MKT"
+  ],
+  "policies": [
+    "joint",
+    "caea"
+  ],
+  "budget": 30,
+  "llm": {
+    "model": "qwen2.5:7b",
+    "digest": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+    "tokenizer_path": "/projects/caea/cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28",
+    "hf_revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "context": 4096,
+    "output_tokens": 512,
+    "seed": 42,
+    "cache": false,
+    "strict_schema": true
+  }
+}

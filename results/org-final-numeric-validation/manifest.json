@@ -1,0 +1,40 @@
+{
+  "run": "org-final-numeric-validation",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 1024,
+      "sha256": "7191e4708c9b51c11f19c776eae445d6dc44f1e8cee75017fcbae233d8e3939a",
+      "original_sha256": "7191e4708c9b51c11f19c776eae445d6dc44f1e8cee75017fcbae233d8e3939a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/DIAGNOSTIC_SHA256SUMS",
+      "size": 345,
+      "sha256": "9463ad78edaeb5e30297d9ec948da346c57044fea4a52d99ec8ee407219e8b7c",
+      "original_sha256": "9463ad78edaeb5e30297d9ec948da346c57044fea4a52d99ec8ee407219e8b7c",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/retained_scratch.txt",
+      "size": 25,
+      "sha256": "05ff35c1c532c0cee5c0e791c520a993c5e20bba524f728ee19920e1f7ba4b84",
+      "original_sha256": "05ff35c1c532c0cee5c0e791c520a993c5e20bba524f728ee19920e1f7ba4b84",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "original_sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 616,
+      "sha256": "12e78733c6f9e84425038efece35d25cd85e7aa4e70dbc7857174fb908e8c7a2"
+    }
+  ]
+}

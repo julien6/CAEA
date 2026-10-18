@@ -1,0 +1,281 @@
+{
+  "jobs": [
+    {
+      "run": "org-corpus-bundle",
+      "job_id": 3048562
+    },
+    {
+      "run": "org-corpus-probe",
+      "job_id": 3048517
+    },
+    {
+      "run": "org-external-llm-pilot",
+      "job_id": 3048525
+    },
+    {
+      "run": "org-external-llm-pilot-v2",
+      "job_id": 3048546
+    },
+    {
+      "run": "org-external-pilot",
+      "job_id": 3048524
+    },
+    {
+      "run": "org-external-prep-v1",
+      "job_id": 3048519
+    },
+    {
+      "run": "org-external-prep-v2",
+      "job_id": 3048521
+    },
+    {
+      "run": "org-final-closeout",
+      "job_id": 3048589
+    },
+    {
+      "run": "org-final-closeout-v2",
+      "job_id": 3048596
+    },
+    {
+      "run": "org-final-documentary-validation",
+      "job_id": 3048568
+    },
+    {
+      "run": "org-final-documentary-validation-v2",
+      "job_id": 3048570
+    },
+    {
+      "run": "org-final-documentary-validation-v3",
+      "job_id": 3048578
+    },
+    {
+      "run": "org-final-documentary-validation-v4",
+      "job_id": 3048594
+    },
+    {
+      "run": "org-final-external-control",
+      "job_id": 3048561
+    },
+    {
+      "run": "org-final-external-llm",
+      "job_id": 3048564
+    },
+    {
+      "run": "org-final-external-report",
+      "job_id": 3048574
+    },
+    {
+      "run": "org-final-main-0",
+      "job_id": 3048544
+    },
+    {
+      "run": "org-final-main-1",
+      "job_id": 3048541
+    },
+    {
+      "run": "org-final-main-2",
+      "job_id": 3048545
+    },
+    {
+      "run": "org-final-main-3",
+      "job_id": 3048542
+    },
+    {
+      "run": "org-final-main-4",
+      "job_id": 3048543
+    },
+    {
+      "run": "org-final-manuscript",
+      "job_id": 3048572
+    },
+    {
+      "run": "org-final-manuscript-v2",
+      "job_id": 3048573
+    },
+    {
+      "run": "org-final-manuscript-v3",
+      "job_id": 3048579
+    },
+    {
+      "run": "org-final-manuscript-v4",
+      "job_id": 3048585
+    },
+    {
+      "run": "org-final-manuscript-v5",
+      "job_id": 3048588
+    },
+    {
+      "run": "org-final-manuscript-v6",
+      "job_id": 3048595
+    },
+    {
+      "run": "org-final-numeric-replay-0",
+      "job_id": 3048580
+    },
+    {
+      "run": "org-final-numeric-replay-1",
+      "job_id": 3048581
+    },
+    {
+      "run": "org-final-numeric-replay-2",
+      "job_id": 3048582
+    },
+    {
+      "run": "org-final-numeric-replay-3",
+      "job_id": 3048583
+    },
+    {
+      "run": "org-final-numeric-replay-4",
+      "job_id": 3048584
+    },
+    {
+      "run": "org-final-numeric-validation",
+      "job_id": 3048566
+    },
+    {
+      "run": "org-final-numeric-validation-v2",
+      "job_id": 3048569
+    },
+    {
+      "run": "org-final-numeric-validation-v3",
+      "job_id": 3048576
+    },
+    {
+      "run": "org-final-report",
+      "job_id": 3048565
+    },
+    {
+      "run": "org-final-robust-0",
+      "job_id": 3048558
+    },
+    {
+      "run": "org-final-robust-1",
+      "job_id": 3048559
+    },
+    {
+      "run": "org-final-robust-2",
+      "job_id": 3048556
+    },
+    {
+      "run": "org-final-robust-3",
+      "job_id": 3048555
+    },
+    {
+      "run": "org-final-robust-4",
+      "job_id": 3048557
+    },
+    {
+      "run": "org-final-synthetic-llm",
+      "job_id": 3048560
+    },
+    {
+      "run": "org-final-synthetic-llm-v2-a",
+      "job_id": 3048577
+    },
+    {
+      "run": "org-final-synthetic-llm-v2-b",
+      "job_id": 3048575
+    },
+    {
+      "run": "org-final-synthetic-oracle",
+      "job_id": 3048563
+    },
+    {
+      "run": "org-final-synthetic-recovered",
+      "job_id": 3048592
+    },
+    {
+      "run": "org-final-synthetic-recovered-v2",
+      "job_id": 3048593
+    },
+    {
+      "run": "org-final-unit",
+      "job_id": 3048567
+    },
+    {
+      "run": "org-legacy-check",
+      "job_id": 3048516
+    },
+    {
+      "run": "org-llm-pilot",
+      "job_id": 3048526
+    },
+    {
+      "run": "org-main-0",
+      "job_id": 3048527
+    },
+    {
+      "run": "org-main-1",
+      "job_id": 3048528
+    },
+    {
+      "run": "org-main-2",
+      "job_id": 3048529
+    },
+    {
+      "run": "org-main-3",
+      "job_id": 3048530
+    },
+    {
+      "run": "org-main-4",
+      "job_id": 3048531
+    },
+    {
+      "run": "org-numeric-layout-preview",
+      "job_id": 3048571
+    },
+    {
+      "run": "org-pilot-report",
+      "job_id": 3048537
+    },
+    {
+      "run": "org-pilot-v1",
+      "job_id": 3048520
+    },
+    {
+      "run": "org-robust-0",
+      "job_id": 3048532
+    },
+    {
+      "run": "org-robust-1",
+      "job_id": 3048533
+    },
+    {
+      "run": "org-robust-2",
+      "job_id": 3048534
+    },
+    {
+      "run": "org-robust-3",
+      "job_id": 3048535
+    },
+    {
+      "run": "org-robust-4",
+      "job_id": 3048536
+    },
+    {
+      "run": "org-tests-v1",
+      "job_id": 3048518
+    },
+    {
+      "run": "org-tests-v2",
+      "job_id": 3048522
+    },
+    {
+      "run": "org-tests-v3",
+      "job_id": 3048523
+    },
+    {
+      "run": "org-tests-v4",
+      "job_id": 3048538
+    },
+    {
+      "run": "org-tests-v5",
+      "job_id": 3048540
+    },
+    {
+      "run": "org-tests-v6",
+      "job_id": 3048539
+    }
+  ],
+  "scope": "All recorded org-* allocations before final ledger; every pilot, excluded/cancelled/failed attempt and complete recovery included. Historical pre-refactor allocations excluded."
+}

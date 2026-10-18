@@ -1,0 +1,131 @@
+{
+  "run": "org-external-llm-pilot",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 671,
+      "sha256": "637e75921be63acceab62c861144c4038d8825b5bb102169d1b550f394d48f9b",
+      "original_sha256": "730a4a41d45c84b90fae8a777ab4f20dc90402599690b90f9a0c8d26175d9828",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/cases/dev1.json",
+      "size": 39083,
+      "sha256": "d98485f4567a5c6edf4e48df72cc508f59d7af9e1c2d45e319ac721090cc51b9",
+      "original_sha256": "d98485f4567a5c6edf4e48df72cc508f59d7af9e1c2d45e319ac721090cc51b9",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/dev1-CENT-caea.json",
+      "size": 198134,
+      "sha256": "29412b2329197f55d14b246a5e91b53c275b5562bec1941bb74c3d0d8d5e0a5e",
+      "original_sha256": "29412b2329197f55d14b246a5e91b53c275b5562bec1941bb74c3d0d8d5e0a5e",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/dev1-COAL-caea.json",
+      "size": 314174,
+      "sha256": "17cd61d8ff1faa117b7d33cf544fc8701a44ca0edadb7e974d78de8eea7546c8",
+      "original_sha256": "17cd61d8ff1faa117b7d33cf544fc8701a44ca0edadb7e974d78de8eea7546c8",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/dev1-MKT-caea.json",
+      "size": 98582,
+      "sha256": "bfdb3e96e5ccaad0260f3f1a1097f18ae88dd42f8f72b026c51eb116695ffacc",
+      "original_sha256": "bfdb3e96e5ccaad0260f3f1a1097f18ae88dd42f8f72b026c51eb116695ffacc",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/dev1-P2P-caea.json",
+      "size": 140511,
+      "sha256": "17aafb84961bcb8c64604e0a6c0829f3e0d25c3f50200674cb78e566eec1456a",
+      "original_sha256": "17aafb84961bcb8c64604e0a6c0829f3e0d25c3f50200674cb78e566eec1456a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/image-sha256.txt",
+      "size": 136,
+      "sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "original_sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/llm_calls.jsonl",
+      "size": 157647,
+      "sha256": "6a3cb6fc3ce26d7aaf6d8b6caaed03d44b91d09eecc2d1257dd3d45d19b1eb74",
+      "original_sha256": "6a3cb6fc3ce26d7aaf6d8b6caaed03d44b91d09eecc2d1257dd3d45d19b1eb74",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/loaded-model.txt",
+      "size": 173,
+      "sha256": "0d1345a8f3e5bdad3bca967da54712f7e64a76dc1594225538d500b6d8dc283f",
+      "original_sha256": "0d1345a8f3e5bdad3bca967da54712f7e64a76dc1594225538d500b6d8dc283f",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/metadata.json",
+      "size": 710,
+      "sha256": "8c193a1a24010318889e0bd8fa5b3c9495c484ad48c5f3526030702eb0947b07",
+      "original_sha256": "a4e4f6f7e3e63be45f08b6e82e1a13f1f435ef50b96de172adab3568d81a6318",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/models-before.json",
+      "size": 963,
+      "sha256": "176ed92340493ead0b89eb043a08adc5db1fb5189c5053d53ccebf9ead15ad89",
+      "original_sha256": "176ed92340493ead0b89eb043a08adc5db1fb5189c5053d53ccebf9ead15ad89",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/models.json",
+      "size": 665,
+      "sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "original_sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/nvidia-smi.txt",
+      "size": 1689,
+      "sha256": "d25ed895a66cc1bab6d6107ec0503e3ed8169005ead7c65db19c546f252ac756",
+      "original_sha256": "d25ed895a66cc1bab6d6107ec0503e3ed8169005ead7c65db19c546f252ac756",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/ollama-server.log",
+      "size": 27645,
+      "sha256": "f4360b5d47d23bf8442b06b390acd9f739b9e4f9a736da3c79a10064c5486a2c",
+      "original_sha256": "63220dd1e508b3294cae34fc62c71b245df25eff32318e77b3b17847a1342cdb",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/ollama-version.json",
+      "size": 20,
+      "sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "original_sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/pip-freeze.txt",
+      "size": 18758,
+      "sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "original_sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/used_config.json",
+      "size": 671,
+      "sha256": "637e75921be63acceab62c861144c4038d8825b5bb102169d1b550f394d48f9b",
+      "original_sha256": "730a4a41d45c84b90fae8a777ab4f20dc90402599690b90f9a0c8d26175d9828",
+      "metadata_redacted": true
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 68054,
+      "sha256": "ab471965ae6456c12ff96d3f5273d682c56553ae1beea14ea22d57d9de55b489"
+    }
+  ]
+}

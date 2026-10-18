@@ -1,0 +1,33 @@
+{
+  "schema": 2,
+  "dataset": "/projects/caea/datasets/m57-public-docs/tasks",
+  "tasks": [
+    "test01",
+    "test02",
+    "test03",
+    "test04",
+    "test05",
+    "test06",
+    "test07",
+    "test08",
+    "test09",
+    "test10",
+    "test11",
+    "test12",
+    "test13",
+    "test14",
+    "test15",
+    "test16"
+  ],
+  "organizations": [
+    "CENT",
+    "P2P",
+    "COAL",
+    "MKT"
+  ],
+  "policies": [
+    "joint",
+    "caea"
+  ],
+  "budget": 30
+}

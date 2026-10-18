@@ -1,0 +1,19 @@
+{
+  "run": "org-robust-3",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 3341,
+      "sha256": "4312a3e82cbd5bdd69fdcd0f11ee99b56892882d1c3617e80919d89a319d3f26",
+      "original_sha256": "4312a3e82cbd5bdd69fdcd0f11ee99b56892882d1c3617e80919d89a319d3f26",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 565,
+      "sha256": "683e559121a13c796bb26d98a1fe96399ea636025cc612f72dc4bcb6035c92c6"
+    }
+  ]
+}

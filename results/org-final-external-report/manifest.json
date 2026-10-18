@@ -1,0 +1,47 @@
+{
+  "run": "org-final-external-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/audit.json",
+      "size": 232,
+      "sha256": "3d0f1dd77f7296f0e2cc6ec4c65843e242915797492a9e944f8b6d2df3e8a7fb",
+      "original_sha256": "3d0f1dd77f7296f0e2cc6ec4c65843e242915797492a9e944f8b6d2df3e8a7fb",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/deterministic/analysis.json",
+      "size": 7082,
+      "sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+      "original_sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/qwen/analysis.json",
+      "size": 7068,
+      "sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+      "original_sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 1191,
+      "sha256": "ab4ec6806b855cbdf9303660fd3845c2ad0a64868b3b63b3d32e2fc7542af4a7"
+    }
+  ]
+}

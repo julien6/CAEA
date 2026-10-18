@@ -1,0 +1,27 @@
+{
+  "runs": [
+    "org-final-synthetic-recovered-v2",
+    "org-final-synthetic-oracle",
+    "org-final-external-llm",
+    "org-final-external-control"
+  ],
+  "jobs": [
+    {
+      "run": "org-final-synthetic-recovered-v2",
+      "job_id": 3048593
+    },
+    {
+      "run": "org-final-synthetic-oracle",
+      "job_id": 3048563
+    },
+    {
+      "run": "org-final-external-llm",
+      "job_id": 3048564
+    },
+    {
+      "run": "org-final-external-control",
+      "job_id": 3048561
+    }
+  ],
+  "expected_episodes": 640
+}

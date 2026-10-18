@@ -1,0 +1,40 @@
+{
+  "run": "org-final-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 728,
+      "sha256": "206386e709e3fc80a7f6b08d6d5afdb969435738d834d103ecbe3e151b2d5f0f",
+      "original_sha256": "206386e709e3fc80a7f6b08d6d5afdb969435738d834d103ecbe3e151b2d5f0f",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/main/analysis.json",
+      "size": 199662,
+      "sha256": "d331de4afd1027e411691e3499f7c7543e58c563d8bbc1cc786e89c9898855c2",
+      "original_sha256": "d331de4afd1027e411691e3499f7c7543e58c563d8bbc1cc786e89c9898855c2",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/robust/analysis.json",
+      "size": 370063,
+      "sha256": "88390d564764d7bfaaa8579bc8f4e00c87088604c4af2cff57cac03a3fd312f2",
+      "original_sha256": "88390d564764d7bfaaa8579bc8f4e00c87088604c4af2cff57cac03a3fd312f2",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 65447,
+      "sha256": "d2bf45fdf8d96ec41e20343168a6bef60a4bbd23cb0fcbab3b095529cebfee4d"
+    }
+  ]
+}

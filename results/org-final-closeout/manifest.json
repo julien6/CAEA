@@ -1,0 +1,19 @@
+{
+  "run": "org-final-closeout",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 585,
+      "sha256": "fcb140704f5e2f8b11978c981f590367ba05d2a8b9bc36d29dc73d3a216a42c6",
+      "original_sha256": "fcb140704f5e2f8b11978c981f590367ba05d2a8b9bc36d29dc73d3a216a42c6",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 242,
+      "sha256": "01672b8bcbb71439859cab0019bb11a0c544f8b4213586e3efb3e1b72449d591"
+    }
+  ]
+}

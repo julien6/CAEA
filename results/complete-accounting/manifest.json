@@ -1,0 +1,40 @@
+{
+  "run": "complete-accounting",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/accounting.tsv",
+      "size": 5327,
+      "sha256": "9aa247d1153df9f23e710e6d04969b0bad03103f1f87600435a4d653de80e1c8",
+      "original_sha256": "9aa247d1153df9f23e710e6d04969b0bad03103f1f87600435a4d653de80e1c8",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/execution_summary.tex",
+      "size": 843,
+      "sha256": "b18d2106fa43f6bf4cdf94753f5c12025ada4542f77a92bbeb4400c6e217de6e",
+      "original_sha256": "b18d2106fa43f6bf4cdf94753f5c12025ada4542f77a92bbeb4400c6e217de6e",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/project_summary.json",
+      "size": 659,
+      "sha256": "26c0abfb4107333204b6bf7062d4bc34d98d6ff6528ae8f1a54662258293a634",
+      "original_sha256": "26c0abfb4107333204b6bf7062d4bc34d98d6ff6528ae8f1a54662258293a634",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 1847,
+      "sha256": "b556782f95e5cae699f3fdb88fe14a1e7d248df0580e7a1426c3d24ec3124a1b"
+    }
+  ]
+}

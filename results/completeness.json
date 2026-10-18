@@ -1,0 +1,23 @@
+{
+  "check": "Export file inventory only; not new scientific replay",
+  "final_episode_files": 35840,
+  "runs": {
+    "org-final-main-0": 3840,
+    "org-final-main-1": 3840,
+    "org-final-main-2": 3840,
+    "org-final-main-3": 3840,
+    "org-final-main-4": 3840,
+    "org-final-robust-0": 3200,
+    "org-final-robust-1": 3200,
+    "org-final-robust-2": 3200,
+    "org-final-robust-3": 3200,
+    "org-final-robust-4": 3200,
+    "org-final-synthetic-recovered-v2": 192,
+    "org-final-synthetic-oracle": 192,
+    "org-final-external-llm": 128,
+    "org-final-external-control": 128
+  },
+  "final_episode_bytes_unmodified": true,
+  "final_case_episode_and_raw_call_files_unmodified": true,
+  "unchanged_scientific_files": 37522
+}

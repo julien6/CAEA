@@ -1,0 +1,33 @@
+{
+  "run": "org-final-closeout-v2",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 585,
+      "sha256": "81bb69599aac4a124e86035a0718269825dbb5519b82520c8472d8d3d321c316",
+      "original_sha256": "81bb69599aac4a124e86035a0718269825dbb5519b82520c8472d8d3d321c316",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/closure.json",
+      "size": 2602,
+      "sha256": "870a3757a9f67aa0ffc9e1fd3130ee2c6dd15e935e4191e9f0b608712d23df74",
+      "original_sha256": "870a3757a9f67aa0ffc9e1fd3130ee2c6dd15e935e4191e9f0b608712d23df74",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 768,
+      "sha256": "97026a0e4948e86da42e0d774b3f5b90f83dc0b11edf5c0c812f2c1b43ac718a"
+    }
+  ]
+}

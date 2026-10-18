@@ -1,0 +1,32 @@
+{
+  "case_seeds": [
+    3000,
+    3001,
+    3002,
+    3003,
+    3004,
+    3005,
+    3006,
+    3007,
+    3008,
+    3009,
+    3010,
+    3011
+  ],
+  "policy_seeds": [
+    0
+  ],
+  "capacity": 3,
+  "methods": [
+    "joint",
+    "caea"
+  ],
+  "settings": [
+    {
+      "name": "mixed",
+      "budget": 48,
+      "agents": 3,
+      "pair_fraction": 0.65
+    }
+  ]
+}

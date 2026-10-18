@@ -1,0 +1,40 @@
+{
+  "run": "org-final-synthetic-llm",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 1076,
+      "sha256": "4808ba61150485cd8fe3aa99edc4feb5d7f76f493e160e423545b4b39c819a06",
+      "original_sha256": "9f6804e74e35f1cf7648d14acdc399a758273d99eda11824d6ce17c68c4ba7d0",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/DIAGNOSTIC_SHA256SUMS",
+      "size": 345,
+      "sha256": "ec64ea373875ba8d7500a9699bc9f15519a545a2479a0f898d1a7cebb7f390a0",
+      "original_sha256": "ec64ea373875ba8d7500a9699bc9f15519a545a2479a0f898d1a7cebb7f390a0",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/retained_scratch.txt",
+      "size": 25,
+      "sha256": "8613516e51da7ac73710ccd91afafee2631e98cf9e287653eb163de08191b9af",
+      "original_sha256": "8613516e51da7ac73710ccd91afafee2631e98cf9e287653eb163de08191b9af",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "original_sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 913,
+      "sha256": "1b3191b4272a394e41f902b4a12a9175da1150a2e34a2ea5af0f8360e2d2608d"
+    }
+  ]
+}

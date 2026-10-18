@@ -1,0 +1,40 @@
+{
+  "run": "project-accounting",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/accounting.tsv",
+      "size": 6138,
+      "sha256": "bf3d0881d65a8e9dcfdc1811ea3b61e1ad8cb7f77e4d842caabe77a9ef48976e",
+      "original_sha256": "bf3d0881d65a8e9dcfdc1811ea3b61e1ad8cb7f77e4d842caabe77a9ef48976e",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/execution_summary.tex",
+      "size": 827,
+      "sha256": "b8d8ad117882fca87766c9a27e2c3c08a6ae6422aea3e7cc0f8a3f9f5fbbbb73",
+      "original_sha256": "b8d8ad117882fca87766c9a27e2c3c08a6ae6422aea3e7cc0f8a3f9f5fbbbb73",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/project_summary.json",
+      "size": 659,
+      "sha256": "5e2243d1def4ab91d929623aa66814a8a36997390d20beeb1bc8300a1d5e60be",
+      "original_sha256": "5e2243d1def4ab91d929623aa66814a8a36997390d20beeb1bc8300a1d5e60be",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 1923,
+      "sha256": "32e3d503baf6a21480c477ba2ed10bd7417cf58afbc57c94bc4d1c13e117b5be"
+    }
+  ]
+}

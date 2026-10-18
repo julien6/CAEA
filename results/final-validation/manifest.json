@@ -1,0 +1,33 @@
+{
+  "run": "final-validation",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/replay_validation.json",
+      "size": 606,
+      "sha256": "487868670aece90f781891453828b7ef0181470b6e2d989b8642c62b92fef9cb",
+      "original_sha256": "487868670aece90f781891453828b7ef0181470b6e2d989b8642c62b92fef9cb",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 1406,
+      "sha256": "5371c6c93507fe64cd2dd10c2d6241e08b653bd014d6b4a8b5e41ddf21f03596",
+      "original_sha256": "5371c6c93507fe64cd2dd10c2d6241e08b653bd014d6b4a8b5e41ddf21f03596",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 893,
+      "sha256": "39c4e90a2c21645fc94955362b41b83f8c459b91ada261a9b34ae07021c658dc"
+    }
+  ]
+}

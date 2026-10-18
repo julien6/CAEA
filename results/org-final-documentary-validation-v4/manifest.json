@@ -1,0 +1,47 @@
+{
+  "run": "org-final-documentary-validation-v4",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 523,
+      "sha256": "e094558b4dc576ad63a1a843fa313649eac33285992f6f36393571e90e089932",
+      "original_sha256": "e094558b4dc576ad63a1a843fa313649eac33285992f6f36393571e90e089932",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/compile.txt",
+      "size": 51,
+      "sha256": "20ca87dfd64c79fdefbe8cc2cb1b3223fcd4fc116edd1b9ba9ddffa62e076294",
+      "original_sha256": "20ca87dfd64c79fdefbe8cc2cb1b3223fcd4fc116edd1b9ba9ddffa62e076294",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/replay.json",
+      "size": 330,
+      "sha256": "a35619a7c471280d073b8a11dc8570f32f075aba67ae9fcb564e62454137cebf",
+      "original_sha256": "a35619a7c471280d073b8a11dc8570f32f075aba67ae9fcb564e62454137cebf",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 3833,
+      "sha256": "bfd1ac7c3130f0073f2d490d0005782fa1ab2b9f50ef347f446db70f54747b88",
+      "original_sha256": "bfd1ac7c3130f0073f2d490d0005782fa1ab2b9f50ef347f446db70f54747b88",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 1395,
+      "sha256": "c04e960756ec0107d7340eb55e6cb0087accd4e2c5d275418a5b8b0d801b9af6"
+    }
+  ]
+}

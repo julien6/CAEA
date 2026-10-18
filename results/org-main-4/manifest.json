@@ -1,0 +1,19 @@
+{
+  "run": "org-main-4",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 1473,
+      "sha256": "1e1e5d978f3c40ac6f633fa17fdf8b511c8ca2d4e60c439cd25cdcb4aa1ac639",
+      "original_sha256": "1e1e5d978f3c40ac6f633fa17fdf8b511c8ca2d4e60c439cd25cdcb4aa1ac639",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 432,
+      "sha256": "444b077c2acb1bbe497b8ae573ad408dd0947176bfea4427d771cfdca6f39c01"
+    }
+  ]
+}

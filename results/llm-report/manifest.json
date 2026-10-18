@@ -1,0 +1,33 @@
+{
+  "run": "llm-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/llm_report.json",
+      "size": 27638,
+      "sha256": "e3889ef93e2ad346e4b669e56c2104466027cd8250a6418aa15e1c5bec501eb8",
+      "original_sha256": "6af82990e0da742b994cdf708c7d4f38d4a86b790b08df5a67e0cd770387a8f7",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/results_llm.tex",
+      "size": 7110,
+      "sha256": "10d023e9b94c57df4a433814445798f4a175e74d7578c5d552f2fd059d39c37c",
+      "original_sha256": "10d023e9b94c57df4a433814445798f4a175e74d7578c5d552f2fd059d39c37c",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 5150,
+      "sha256": "802b8ec4472a38641a1b6fddfb63a8c9862e74bf930a087f32453bfc444c0108"
+    }
+  ]
+}

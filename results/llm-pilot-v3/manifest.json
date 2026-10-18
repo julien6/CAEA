@@ -1,0 +1,159 @@
+{
+  "run": "llm-pilot-v3",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 533,
+      "sha256": "fb4e5d3f209deaa1e56da6e93f871b775c63751cb1c497a8a1b662944c550cef",
+      "original_sha256": "b69b6a055af5285d4c876c85db6263daa8a5c77e551f60b7b37434ef8eccd38f",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/analysis.json",
+      "size": 2565,
+      "sha256": "0eac2f1656d66139881deefe2725f8db628e1df8710990f2ff6856b181e2dea7",
+      "original_sha256": "0eac2f1656d66139881deefe2725f8db628e1df8710990f2ff6856b181e2dea7",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/cases/mixed-900.json",
+      "size": 44111,
+      "sha256": "b24c8359c40de2f97d96507815cc653cb99469304f48fdadeb9c0049fd3b4a1f",
+      "original_sha256": "b24c8359c40de2f97d96507815cc653cb99469304f48fdadeb9c0049fd3b4a1f",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/cases/mixed-901.json",
+      "size": 44101,
+      "sha256": "89b6928bc1913ef021e2324f48f4ceeec910cd1d029ce2df37bf9bc6f1ee41a2",
+      "original_sha256": "89b6928bc1913ef021e2324f48f4ceeec910cd1d029ce2df37bf9bc6f1ee41a2",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/curves.pdf",
+      "size": 13224,
+      "sha256": "0a659f86b6c99e1b3e0da5f0fb017f639320156c098fe51e83cfdaf0cd0ecffa",
+      "original_sha256": "0a659f86b6c99e1b3e0da5f0fb017f639320156c098fe51e83cfdaf0cd0ecffa",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/curves.png",
+      "size": 25994,
+      "sha256": "d40be32f1adb5c12f8f9594c5a07f7d8cf7390685f6b254b8b307569620ea140",
+      "original_sha256": "d40be32f1adb5c12f8f9594c5a07f7d8cf7390685f6b254b8b307569620ea140",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/mixed-900-0-caea.json",
+      "size": 11037,
+      "sha256": "cd7de1af0aa64f0aeb65f84131df73de44b47890d191b20cc6ea5ae1e2796119",
+      "original_sha256": "cd7de1af0aa64f0aeb65f84131df73de44b47890d191b20cc6ea5ae1e2796119",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/mixed-900-0-joint.json",
+      "size": 11038,
+      "sha256": "d85efa5c8ce71fef4a3bc0eff74ef118b4ae47e18a0d55f009dbdefb25e478ed",
+      "original_sha256": "d85efa5c8ce71fef4a3bc0eff74ef118b4ae47e18a0d55f009dbdefb25e478ed",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/mixed-901-0-caea.json",
+      "size": 10350,
+      "sha256": "0f8677173a633b8173649e822b5c5f9af8f690ddb7ab418f36a9713c6334e58d",
+      "original_sha256": "0f8677173a633b8173649e822b5c5f9af8f690ddb7ab418f36a9713c6334e58d",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/episodes/mixed-901-0-joint.json",
+      "size": 10352,
+      "sha256": "5174b3c1f34954e6060e1cadfec6d2a501053352c92dff21a0822da83bb4d5e2",
+      "original_sha256": "5174b3c1f34954e6060e1cadfec6d2a501053352c92dff21a0822da83bb4d5e2",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/image-sha256.txt",
+      "size": 136,
+      "sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "original_sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/llm_calls.jsonl",
+      "size": 239631,
+      "sha256": "01e14a465aca14d23d247854189d53b2ab23252cda324d3917a8de8109ada847",
+      "original_sha256": "01e14a465aca14d23d247854189d53b2ab23252cda324d3917a8de8109ada847",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/loaded-model.txt",
+      "size": 177,
+      "sha256": "f4bfebe1bcb5e3fa692bd79ac0e091ea9132f5324fa6524bc9f421e40bdc5fb6",
+      "original_sha256": "f4bfebe1bcb5e3fa692bd79ac0e091ea9132f5324fa6524bc9f421e40bdc5fb6",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/metadata.json",
+      "size": 1215,
+      "sha256": "faf332341a85f7ce64a3da06d08b351e69949b425302994c56126a225c12240b",
+      "original_sha256": "8691e6d58e4c7702a7d355aeaad429a3889b3e1e3726072e55a5b808e2cb50f4",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/models.json",
+      "size": 665,
+      "sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "original_sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/nvidia-smi.txt",
+      "size": 1689,
+      "sha256": "ec63ac617ace733414a1ccc7dfcb66f5edbfa74ed7d854b3265f83f3ec9764c1",
+      "original_sha256": "ec63ac617ace733414a1ccc7dfcb66f5edbfa74ed7d854b3265f83f3ec9764c1",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/ollama-server.log",
+      "size": 31564,
+      "sha256": "85cac19ac354f5f545b3d1f1ffe6c14b249530ae897b0b28fc55e5b70ddc9083",
+      "original_sha256": "f669e61baf962a969defcd7d75938598956da2af18a8e20f8d1ca6f2f224db1d",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/ollama-version.json",
+      "size": 20,
+      "sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "original_sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/pip-freeze.txt",
+      "size": 18758,
+      "sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "original_sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/summary.csv",
+      "size": 782,
+      "sha256": "8105a45badf508cbac0a94f905d5b2c0398b2d2656946d1fe2eb532ce2fb92de",
+      "original_sha256": "8105a45badf508cbac0a94f905d5b2c0398b2d2656946d1fe2eb532ce2fb92de",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/summary.txt",
+      "size": 179,
+      "sha256": "937bf77485a6d3a22d8207e400fc3da07375d3dcad78e76a25e9dc83fb0f5e13",
+      "original_sha256": "937bf77485a6d3a22d8207e400fc3da07375d3dcad78e76a25e9dc83fb0f5e13",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 74555,
+      "sha256": "c7b1726896890656967c5679aa3cbf40b9d7d3646efb9757e544b11e1c35ef16"
+    }
+  ]
+}

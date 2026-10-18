@@ -1,0 +1,32 @@
+{
+  "runs": [
+    "org-final-synthetic-llm-v2-a",
+    "org-final-synthetic-llm-v2-b",
+    "org-final-synthetic-oracle",
+    "org-final-external-llm",
+    "org-final-external-control"
+  ],
+  "jobs": [
+    {
+      "run": "org-final-synthetic-llm-v2-a",
+      "job_id": 3048577
+    },
+    {
+      "run": "org-final-synthetic-llm-v2-b",
+      "job_id": 3048575
+    },
+    {
+      "run": "org-final-synthetic-oracle",
+      "job_id": 3048563
+    },
+    {
+      "run": "org-final-external-llm",
+      "job_id": 3048564
+    },
+    {
+      "run": "org-final-external-control",
+      "job_id": 3048561
+    }
+  ],
+  "expected_episodes": 640
+}

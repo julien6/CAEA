@@ -1,0 +1,33 @@
+{
+  "run": "org-external-prep-v2",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/annotation_audit.json",
+      "size": 16104,
+      "sha256": "f35467964678ef6c9b7b0be502a84dca23047cb76be05771494b6d8dd723e825",
+      "original_sha256": "f35467964678ef6c9b7b0be502a84dca23047cb76be05771494b6d8dd723e825",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/build.txt",
+      "size": 70,
+      "sha256": "649b7fee8eade1c4fd801ebd51f83f0971955fe5118fff3d65fdf00a7a34eb17",
+      "original_sha256": "649b7fee8eade1c4fd801ebd51f83f0971955fe5118fff3d65fdf00a7a34eb17",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 3029,
+      "sha256": "6e5ff01156bd96ea80b214278bf093f315c39e4a9008d916673fc0e75bbde1b1"
+    }
+  ]
+}

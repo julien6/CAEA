@@ -1,0 +1,40 @@
+{
+  "run": "org-final-synthetic-recovered",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 1269,
+      "sha256": "5c013326cf26328303f7f093449d38f57eb8f728b1e91c4eafc91866fe036dda",
+      "original_sha256": "7a11f62b452ddbc632b6ed8c6d22dbe5d2ec6976d86b4d832eb7ea72596ca592",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/DIAGNOSTIC_SHA256SUMS",
+      "size": 345,
+      "sha256": "e47db6b1d6787fa93863e8ead939798213f529bd3d1b6331f9ef28be026120b1",
+      "original_sha256": "e47db6b1d6787fa93863e8ead939798213f529bd3d1b6331f9ef28be026120b1",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/retained_scratch.txt",
+      "size": 70,
+      "sha256": "13c49037779643d06f3a280b8144fde49e34ec26a5512ed2f75d60c19549b9dc",
+      "original_sha256": "5083072dd8624993cd5f031a9525336df6300996ba727776e919a9a8d6633206",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "original_sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 992,
+      "sha256": "ee6513859a4bbe5dc22306c152ef58220ad863f2b7ad23ed3a625d0a80104300"
+    }
+  ]
+}

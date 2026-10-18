@@ -1,0 +1,11 @@
+{
+  "attempts": 2084,
+  "dispatched": 2084,
+  "errors": 0,
+  "input_tokens": 729062,
+  "output_tokens": 32041,
+  "rejected_quotes": 78,
+  "accepted_literal_pdf_mentions": 0,
+  "inference_reuse": false,
+  "independent_scenarios": 1
+}

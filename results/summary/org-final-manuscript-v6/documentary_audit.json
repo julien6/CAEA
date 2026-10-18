@@ -1,0 +1,42 @@
+{
+  "runs": {
+    "org-final-synthetic-recovered-v2": {
+      "calls": 4778,
+      "errors": 7,
+      "rejected_quotes": 0,
+      "rejected_mentions": 0,
+      "max_prompt": 295,
+      "wall_seconds": 6780.812569618225,
+      "ollama_eval_seconds": 1375.207681275004,
+      "ollama_load_seconds": 1088.6264234430005,
+      "ollama_total_seconds": 6768.358641290983,
+      "diagnostic": 1953,
+      "diagnostic_exact": 1940,
+      "references": 1667,
+      "references_exact": 1661,
+      "noise": 2825,
+      "noise_exact": 2825
+    },
+    "org-final-external-llm": {
+      "calls": 2084,
+      "errors": 0,
+      "rejected_quotes": 78,
+      "rejected_mentions": 613,
+      "max_prompt": 688,
+      "wall_seconds": 1553.5704109668732,
+      "ollama_eval_seconds": 224.46981830700042,
+      "ollama_load_seconds": 488.2836773359996,
+      "ollama_total_seconds": 1550.0352246009995,
+      "diagnostic": 0,
+      "diagnostic_exact": 0,
+      "references": 0,
+      "references_exact": 0,
+      "noise": 0,
+      "noise_exact": 0
+    }
+  },
+  "calls": 6862,
+  "attempts": 6862,
+  "input_tokens": 2033084,
+  "output_tokens": 224666
+}

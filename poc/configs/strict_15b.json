@@ -1,0 +1,43 @@
+{
+  "case_seeds": [
+    3000,
+    3001,
+    3002,
+    3003,
+    3004,
+    3005,
+    3006,
+    3007,
+    3008,
+    3009,
+    3010,
+    3011
+  ],
+  "policy_seeds": [
+    0
+  ],
+  "capacity": 3,
+  "methods": [
+    "joint",
+    "caea"
+  ],
+  "settings": [
+    {
+      "name": "mixed",
+      "budget": 48,
+      "agents": 3,
+      "pair_fraction": 0.65
+    }
+  ],
+  "llm": {
+    "model": "qwen2.5:1.5b",
+    "digest": "65ec06548149b04c096a120e4a6da9d4017ea809c91734ea5631e89f96ddc57b",
+    "tokenizer_path": "/projects/caea/cache/huggingface/hub/models--Qwen--Qwen2.5-1.5B-Instruct/snapshots/989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "hf_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "context": 768,
+    "output_tokens": 160,
+    "seed": 42,
+    "cache": false,
+    "strict_schema": true
+  }
+}

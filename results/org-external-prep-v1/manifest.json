@@ -1,0 +1,26 @@
+{
+  "run": "org-external-prep-v1",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/DIAGNOSTIC_SHA256SUMS",
+      "size": 172,
+      "sha256": "470adc33c36a98a201b8b8ef6e435dfbdfcecfa7f4ce421a59f6168337fcecfb",
+      "original_sha256": "470adc33c36a98a201b8b8ef6e435dfbdfcecfa7f4ce421a59f6168337fcecfb",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 308,
+      "sha256": "99c22f53ac1836b3f8d16dbcae37f287d7026b2ea650b90010915e440069b7dc"
+    }
+  ]
+}

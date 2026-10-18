@@ -1,0 +1,40 @@
+{
+  "run": "org-corpus-probe",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/corpus_manifest.json",
+      "size": 2288,
+      "sha256": "5fefd894f870a209689fc97eed434b01ee495f0157b358194ca34df0eeefcfbb",
+      "original_sha256": "5fefd894f870a209689fc97eed434b01ee495f0157b358194ca34df0eeefcfbb",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/corpus_text.txt",
+      "size": 27042,
+      "sha256": "dfed604012e96a8b7e4010702283720ed7b9646ad8f2b39bd51ca0018d1a5679",
+      "original_sha256": "dfed604012e96a8b7e4010702283720ed7b9646ad8f2b39bd51ca0018d1a5679",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/dependencies.txt",
+      "size": 3983,
+      "sha256": "ba6fc1c5e2e8733769d11695f7e04524b1ef6382c68faba152d4910943d074ea",
+      "original_sha256": "ba6fc1c5e2e8733769d11695f7e04524b1ef6382c68faba152d4910943d074ea",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 8756,
+      "sha256": "70cc9baa47b9c17c8659e16801421c108f619da775e075e92d820fffcc23b230"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Optional extraction/plotting dependencies in the evaluated container.
+# Core numerical environment and statistics use only the Python standard library.
+# Reproduce the full container SHA recorded in each run, rather than pip-changing it.
+transformers==4.49.0
+tokenizers==0.21.0
+huggingface-hub==0.29.1
+matplotlib==3.10.0
+numpy==1.26.4

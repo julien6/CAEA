@@ -1,0 +1,47 @@
+{
+  "run": "org-legacy-check",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/path_report.json",
+      "size": 16477,
+      "sha256": "74598bf5ebbb7d364acad415ca98ea5fa683fc5c2239a8c47dbdad0ef98deb51",
+      "original_sha256": "74598bf5ebbb7d364acad415ca98ea5fa683fc5c2239a8c47dbdad0ef98deb51",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/replay_validation.json",
+      "size": 748,
+      "sha256": "07143981e3f1e9bebae8c7cfb83678edff55bb07016d34bd5738e2bd29c74051",
+      "original_sha256": "07143981e3f1e9bebae8c7cfb83678edff55bb07016d34bd5738e2bd29c74051",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_path.tex",
+      "size": 2054,
+      "sha256": "7e6747cb4be6b6073c318e34fe3618e15549437fcbf3bf60efbcaa8fee81871e",
+      "original_sha256": "7e6747cb4be6b6073c318e34fe3618e15549437fcbf3bf60efbcaa8fee81871e",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 1911,
+      "sha256": "c52e6079d9d48e4ee2e3ed2d5df136d7766eab8d194edf98f05015e4c982cb7f",
+      "original_sha256": "c52e6079d9d48e4ee2e3ed2d5df136d7766eab8d194edf98f05015e4c982cb7f",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 5154,
+      "sha256": "266ce20813779353c1f8ca3d7119d96adde7a37415211ae48d20c625e121e810"
+    }
+  ]
+}

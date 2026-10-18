@@ -1,0 +1,40 @@
+{
+  "run": "org-pilot-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/DIAGNOSTIC_SHA256SUMS",
+      "size": 172,
+      "sha256": "a7f4b964dc9c695b5e6d95334428f03ba0491ff365181978c380e0ba0654a62a",
+      "original_sha256": "a7f4b964dc9c695b5e6d95334428f03ba0491ff365181978c380e0ba0654a62a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/external/analysis.json",
+      "size": 7019,
+      "sha256": "f703ea16a1bd086f07fd66aa3d3633b8f5e6a324763cf9f07cc9a17377ae970a",
+      "original_sha256": "f703ea16a1bd086f07fd66aa3d3633b8f5e6a324763cf9f07cc9a17377ae970a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/numeric/analysis.json",
+      "size": 85029,
+      "sha256": "53905f07b0ec61210c5e8347989c1cc8720ab32531a7e4dbd94d679b079719ee",
+      "original_sha256": "53905f07b0ec61210c5e8347989c1cc8720ab32531a7e4dbd94d679b079719ee",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 7447,
+      "sha256": "63fa76138067ff5c86a91d038f74d7055d1b5bfd3cfa603e298f50c8581632e3"
+    }
+  ]
+}

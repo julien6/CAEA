@@ -1,0 +1,47 @@
+{
+  "run": "org-numeric-layout-preview",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/organization_effects.pdf",
+      "size": 16756,
+      "sha256": "d3f5a0cdc96e4507949fc4f28db415759527440cae064d2a5682be5cdf180395",
+      "original_sha256": "d3f5a0cdc96e4507949fc4f28db415759527440cae064d2a5682be5cdf180395",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_org.tex",
+      "size": 9479,
+      "sha256": "c416646eafb6302f273b50462589d99e372698b645286a67f10f55343e606a45",
+      "original_sha256": "c416646eafb6302f273b50462589d99e372698b645286a67f10f55343e606a45",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/temporal_contrasts.json",
+      "size": 6710,
+      "sha256": "85f336712a690f7774e48cadf641e3aab20183eae7be71581bbfac458a593416",
+      "original_sha256": "85f336712a690f7774e48cadf641e3aab20183eae7be71581bbfac458a593416",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/worker_exit.txt",
+      "size": 2,
+      "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 15584,
+      "sha256": "737e921f78f610eb20f6d7d8e7df8871c73c326dfa2298ee20079b353187a3fe"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "run": "numeric-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/image-sha256.txt",
+      "size": 136,
+      "sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "original_sha256": "acc08aa5622bccec36884f1113a5675cd1852cfb14e4c88cf35230da84e6bd32",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/integrity.json",
+      "size": 195,
+      "sha256": "a4cff6384b5b817c5979b2e96ba9e001235c797fc38f2bb4e1d8e848cbcf93e5",
+      "original_sha256": "a4cff6384b5b817c5979b2e96ba9e001235c797fc38f2bb4e1d8e848cbcf93e5",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/numeric_curves.pdf",
+      "size": 21426,
+      "sha256": "56a881dc07aea4afe29c21baf808ff7a927997601cb881c4ce6a474533b7c41b",
+      "original_sha256": "56a881dc07aea4afe29c21baf808ff7a927997601cb881c4ce6a474533b7c41b",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/pip-freeze.txt",
+      "size": 18758,
+      "sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "original_sha256": "60aa6b1fb0f758246c90c4e7115b998171517b2dfad73a7f251cef1a02364d4c",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/result_macros.tex",
+      "size": 102,
+      "sha256": "f6ac7b2dcdd030346fd4c9a8055d29b13e6981880d8ad3e353203ee75b7fa9cd",
+      "original_sha256": "f6ac7b2dcdd030346fd4c9a8055d29b13e6981880d8ad3e353203ee75b7fa9cd",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_numeric.tex",
+      "size": 8363,
+      "sha256": "589d7a73eabba9b4014d6733db35acc39f5f3aef43ddc557f8c8c576d2989c68",
+      "original_sha256": "589d7a73eabba9b4014d6733db35acc39f5f3aef43ddc557f8c8c576d2989c68",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 1164,
+      "sha256": "491c993fc6b8831a9084470ad3d78cec1680403372607b410e869228c0a55a06",
+      "original_sha256": "491c993fc6b8831a9084470ad3d78cec1680403372607b410e869228c0a55a06",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 29410,
+      "sha256": "ef0ebf09cdd1908faf3fef882fd22857766d7a565646184a00dbd63f7b1e2e40"
+    }
+  ]
+}

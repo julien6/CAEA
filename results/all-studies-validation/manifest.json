@@ -1,0 +1,47 @@
+{
+  "run": "all-studies-validation",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/path_report.json",
+      "size": 16477,
+      "sha256": "74598bf5ebbb7d364acad415ca98ea5fa683fc5c2239a8c47dbdad0ef98deb51",
+      "original_sha256": "74598bf5ebbb7d364acad415ca98ea5fa683fc5c2239a8c47dbdad0ef98deb51",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/replay_validation.json",
+      "size": 748,
+      "sha256": "234aacaeed3e3774935a0733167bda8766b53d46d18d1f6c1b13cc573260f5c7",
+      "original_sha256": "234aacaeed3e3774935a0733167bda8766b53d46d18d1f6c1b13cc573260f5c7",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_path.tex",
+      "size": 2054,
+      "sha256": "7e6747cb4be6b6073c318e34fe3618e15549437fcbf3bf60efbcaa8fee81871e",
+      "original_sha256": "7e6747cb4be6b6073c318e34fe3618e15549437fcbf3bf60efbcaa8fee81871e",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/tests.txt",
+      "size": 1799,
+      "sha256": "a9ca21f769d07c78f862a1605fa61fe612767134f8f655cde6f380134c33d49a",
+      "original_sha256": "a9ca21f769d07c78f862a1605fa61fe612767134f8f655cde6f380134c33d49a",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 5126,
+      "sha256": "1014a199fac84258e6202eb79f6d8140d31b871cb3e1a5a5015f434fcfa65d6f"
+    }
+  ]
+}

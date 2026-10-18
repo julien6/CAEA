@@ -1,0 +1,574 @@
+{
+  "gpu_hours": 3.248611111111111,
+  "cpu_core_hours": 16.577777777777776,
+  "jobs": {
+    "3048562": {
+      "run": "org-corpus-bundle",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048517": {
+      "run": "org-corpus-probe",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 23,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048525": {
+      "run": "org-external-llm-pilot",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 168,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048546": {
+      "run": "org-external-llm-pilot-v2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 118,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048524": {
+      "run": "org-external-pilot",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 18,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048519": {
+      "run": "org-external-prep-v1",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 1,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048521": {
+      "run": "org-external-prep-v2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048589": {
+      "run": "org-final-closeout",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048596": {
+      "run": "org-final-closeout-v2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 2,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048568": {
+      "run": "org-final-documentary-validation",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048570": {
+      "run": "org-final-documentary-validation-v2",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048578": {
+      "run": "org-final-documentary-validation-v3",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048594": {
+      "run": "org-final-documentary-validation-v4",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 61,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048561": {
+      "run": "org-final-external-control",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 17,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048564": {
+      "run": "org-final-external-llm",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1605,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048574": {
+      "run": "org-final-external-report",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 2,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048544": {
+      "run": "org-final-main-0",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 691,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048541": {
+      "run": "org-final-main-1",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 694,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048545": {
+      "run": "org-final-main-2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 685,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048542": {
+      "run": "org-final-main-3",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 693,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048543": {
+      "run": "org-final-main-4",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 688,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048572": {
+      "run": "org-final-manuscript",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048573": {
+      "run": "org-final-manuscript-v2",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048579": {
+      "run": "org-final-manuscript-v3",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048585": {
+      "run": "org-final-manuscript-v4",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048588": {
+      "run": "org-final-manuscript-v5",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 0,
+      "cpu_cores": 0,
+      "gpu_count": 0
+    },
+    "3048595": {
+      "run": "org-final-manuscript-v6",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 114,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048580": {
+      "run": "org-final-numeric-replay-0",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1253,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048581": {
+      "run": "org-final-numeric-replay-1",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1250,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048582": {
+      "run": "org-final-numeric-replay-2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1256,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048583": {
+      "run": "org-final-numeric-replay-3",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1259,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048584": {
+      "run": "org-final-numeric-replay-4",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1211,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048566": {
+      "run": "org-final-numeric-validation",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 14,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048569": {
+      "run": "org-final-numeric-validation-v2",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 1138,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048576": {
+      "run": "org-final-numeric-validation-v3",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 512,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048565": {
+      "run": "org-final-report",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 362,
+      "cpu_cores": 4,
+      "gpu_count": 0
+    },
+    "3048558": {
+      "run": "org-final-robust-0",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 565,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048559": {
+      "run": "org-final-robust-1",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 563,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048556": {
+      "run": "org-final-robust-2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 573,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048555": {
+      "run": "org-final-robust-3",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 580,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048557": {
+      "run": "org-final-robust-4",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 559,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048560": {
+      "run": "org-final-synthetic-llm",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 2647,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048577": {
+      "run": "org-final-synthetic-llm-v2-a",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 3424,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048575": {
+      "run": "org-final-synthetic-llm-v2-b",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 3466,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048563": {
+      "run": "org-final-synthetic-oracle",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 30,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048592": {
+      "run": "org-final-synthetic-recovered",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 2,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048593": {
+      "run": "org-final-synthetic-recovered-v2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 26,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048567": {
+      "run": "org-final-unit",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 12,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048516": {
+      "run": "org-legacy-check",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 553,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048526": {
+      "run": "org-llm-pilot",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 267,
+      "cpu_cores": 2,
+      "gpu_count": 1
+    },
+    "3048527": {
+      "run": "org-main-0",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 277,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048528": {
+      "run": "org-main-1",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 265,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048529": {
+      "run": "org-main-2",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 254,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048530": {
+      "run": "org-main-3",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 243,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048531": {
+      "run": "org-main-4",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 232,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048571": {
+      "run": "org-numeric-layout-preview",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 21,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048537": {
+      "run": "org-pilot-report",
+      "state": "FAILED",
+      "exit": "1:0",
+      "allocated_seconds": 3,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048520": {
+      "run": "org-pilot-v1",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 26,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048532": {
+      "run": "org-robust-0",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 221,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048533": {
+      "run": "org-robust-1",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 209,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048534": {
+      "run": "org-robust-2",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 197,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048535": {
+      "run": "org-robust-3",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 187,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048536": {
+      "run": "org-robust-4",
+      "state": "CANCELLED by 13545",
+      "exit": "0:0",
+      "allocated_seconds": 170,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048518": {
+      "run": "org-tests-v1",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 12,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048522": {
+      "run": "org-tests-v2",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 11,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048523": {
+      "run": "org-tests-v3",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 11,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048538": {
+      "run": "org-tests-v4",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 11,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048540": {
+      "run": "org-tests-v5",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 12,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048539": {
+      "run": "org-tests-v6",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 11,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    },
+    "3048597": {
+      "run": "org-final-ledger",
+      "state": "COMPLETED",
+      "exit": "0:0",
+      "allocated_seconds": 1,
+      "cpu_cores": 2,
+      "gpu_count": 0
+    }
+  },
+  "limits": {
+    "gpu_hours": 24,
+    "cpu_core_hours": 200
+  },
+  "includes_excluded_attempts": true,
+  "scope": "All 70 organizational study allocations, including final accounting allocation; administrative closure from downloaded Slurm metadata.",
+  "remote_ledger_sha256": "675344568607dbea025fe6fe8080397fde6e1aca9e53c00bb8eba97e9ff3d520",
+  "ledger_allocation_source": "experiments/occidata/org-final-ledger/final_accounting_allocation.txt"
+}

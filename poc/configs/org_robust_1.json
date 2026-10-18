@@ -1,0 +1,215 @@
+{
+  "schema": 2,
+  "case_seeds": [
+    11010,
+    11011,
+    11012,
+    11013,
+    11014,
+    11015,
+    11016,
+    11017,
+    11018,
+    11019
+  ],
+  "policy_seeds": [
+    0,
+    1
+  ],
+  "organizations": [
+    "CENT",
+    "P2P",
+    "COAL",
+    "MKT"
+  ],
+  "policies": [
+    "joint",
+    "caea"
+  ],
+  "settings": [
+    {
+      "name": "workers_1",
+      "case": {},
+      "execution": {
+        "agents": 1,
+        "budget": 72
+      }
+    },
+    {
+      "name": "workers_2",
+      "case": {},
+      "execution": {
+        "agents": 2,
+        "budget": 72
+      }
+    },
+    {
+      "name": "workers_4",
+      "case": {},
+      "execution": {
+        "agents": 4,
+        "budget": 72
+      }
+    },
+    {
+      "name": "workers_8",
+      "case": {},
+      "execution": {
+        "agents": 8,
+        "budget": 72
+      }
+    },
+    {
+      "name": "communication_0.01",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "message_cost": 0.01
+      }
+    },
+    {
+      "name": "communication_0.1",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "message_cost": 0.1
+      }
+    },
+    {
+      "name": "delay_1",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "delay": 1
+      }
+    },
+    {
+      "name": "delay_3",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "delay": 3
+      }
+    },
+    {
+      "name": "heterogeneous",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "capacities": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "name": "unavailable",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "unavailable": true
+      }
+    },
+    {
+      "name": "wrong_refs_0.25",
+      "case": {
+        "wrong_refs": 0.25
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "wrong_refs_0.75",
+      "case": {
+        "wrong_refs": 0.75
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "depth_2",
+      "case": {
+        "depth": 2
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "depth_5",
+      "case": {
+        "depth": 5
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "parts_3",
+      "case": {
+        "parts": 3
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "parts_4",
+      "case": {
+        "parts": 4
+      },
+      "execution": {
+        "agents": 3,
+        "budget": 72
+      }
+    },
+    {
+      "name": "budget_36",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 36
+      }
+    },
+    {
+      "name": "budget_120",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 120
+      }
+    },
+    {
+      "name": "bonus_0.5",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "bonus": 0.5
+      }
+    },
+    {
+      "name": "bonus_2",
+      "case": {},
+      "execution": {
+        "agents": 3,
+        "budget": 72,
+        "bonus": 2
+      }
+    }
+  ]
+}

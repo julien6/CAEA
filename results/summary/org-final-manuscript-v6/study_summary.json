@@ -1,0 +1,9 @@
+{
+  "main_episodes": 19200,
+  "robust_episodes": 16000,
+  "synthetic_llm_episodes": 192,
+  "synthetic_exact_episodes": 192,
+  "external_llm_episodes": 128,
+  "external_deterministic_episodes": 128,
+  "main_negative_controls_exact": true
+}

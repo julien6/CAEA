@@ -1,0 +1,61 @@
+{
+  "run": "models-v1",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 129,
+      "sha256": "856654e98e40648226cdf19e8adc88e82a76ccb0ae4b1acdfe6d9c6165a45291",
+      "original_sha256": "856654e98e40648226cdf19e8adc88e82a76ccb0ae4b1acdfe6d9c6165a45291",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/loaded-model.txt",
+      "size": 53,
+      "sha256": "e3bd0fe8f9ac39f92c095af0d4c5e8d3277a83f56cba6a9bafe00cef52061584",
+      "original_sha256": "e3bd0fe8f9ac39f92c095af0d4c5e8d3277a83f56cba6a9bafe00cef52061584",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/models.json",
+      "size": 665,
+      "sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "original_sha256": "f66a0fae96adde42d39f175e483dada85c71aea7f78e4542514778c43e87a0e9",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/nvidia-smi.txt",
+      "size": 1689,
+      "sha256": "486d76c6be8f34184ef3e7aae9c944a65c4cfa67d0842693e8086df679f54a6a",
+      "original_sha256": "486d76c6be8f34184ef3e7aae9c944a65c4cfa67d0842693e8086df679f54a6a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/ollama-server.log",
+      "size": 4454,
+      "sha256": "65d5c39ab69a3ef1e50bdffe69ad2a7fa5d0b1dc64a4ab2fb1c9a3c41485e926",
+      "original_sha256": "08fa2d53ae2d2a7ad226193452bb4293340ab579137a0b7cc5f2c2f5e2115e71",
+      "metadata_redacted": true
+    },
+    {
+      "path": "outputs/ollama-version.json",
+      "size": 20,
+      "sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "original_sha256": "52aa13ababa4f028fad00bbf65023b7da1615cd90e1eb176ed502a4c578c5b28",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/prepared.json",
+      "size": 664,
+      "sha256": "50ebf215ccd05210291fa14c81896db4afad1a187cdbebb35d80888ac11b42d3",
+      "original_sha256": "336aed3b70713402a2bf861d0116563ea947d97d089550a6fca6ef81045e7795",
+      "metadata_redacted": true
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 2722,
+      "sha256": "8e6950469faa26af0c601b0332a4856462231ebc70ada0b0e68ade8f5c847763"
+    }
+  ]
+}

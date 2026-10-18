@@ -1,0 +1,1 @@
+{"schema":2,"case_seeds":[9000,9001],"policy_seeds":[0],"organizations":["CENT","P2P","COAL","MKT"],"policies":["joint","myopic","caea","costpath"],"settings":[{"name":"mixed","case":{"pair_fraction":0.65},"execution":{"agents":3,"budget":72}},{"name":"delayed","case":{"pair_fraction":0.65},"execution":{"agents":3,"budget":72,"delay":2}}]}

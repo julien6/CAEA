@@ -1,0 +1,118 @@
+[
+  {
+    "path": "results/summary/org-final-manuscript-v6/results_org.tex",
+    "sha256": "55a62c8ec94e2243c5a15e28b10fba93a3c0d17d7ee2596cfac31d35769f7459",
+    "original_sha256": "55a62c8ec94e2243c5a15e28b10fba93a3c0d17d7ee2596cfac31d35769f7459",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/documentary_audit.json",
+    "sha256": "9c6d09b892f00b1004c8edcc7d58fa6d7513eb1ba8874cfe894953c09e783d3f",
+    "original_sha256": "9c6d09b892f00b1004c8edcc7d58fa6d7513eb1ba8874cfe894953c09e783d3f",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/organization_effects.pdf",
+    "sha256": "c020f872d3602d99570c9e7a99260a88bf1a681b82ea0986ab2ac043b0023f54",
+    "original_sha256": "c020f872d3602d99570c9e7a99260a88bf1a681b82ea0986ab2ac043b0023f54",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/temporal_contrasts.json",
+    "sha256": "85f336712a690f7774e48cadf641e3aab20183eae7be71581bbfac458a593416",
+    "original_sha256": "85f336712a690f7774e48cadf641e3aab20183eae7be71581bbfac458a593416",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/study_summary.json",
+    "sha256": "07bb98512db16c702619ab69046cb6b0ed50ba27d7294f002638f64ce946d99d",
+    "original_sha256": "07bb98512db16c702619ab69046cb6b0ed50ba27d7294f002638f64ce946d99d",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/synthetic_control/analysis.json",
+    "sha256": "c484c572a81436610a1d36ffb6bcdf7dd3c7d7bd0d69c743e182be7ce431dff4",
+    "original_sha256": "c484c572a81436610a1d36ffb6bcdf7dd3c7d7bd0d69c743e182be7ce431dff4",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/synthetic/analysis.json",
+    "sha256": "bee91f116f167f2758892b7c4e3506369e73b74eaecc75612c41a5465e0e3743",
+    "original_sha256": "bee91f116f167f2758892b7c4e3506369e73b74eaecc75612c41a5465e0e3743",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/external_control/analysis.json",
+    "sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+    "original_sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-manuscript-v6/external/analysis.json",
+    "sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+    "original_sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-report/robust/analysis.json",
+    "sha256": "88390d564764d7bfaaa8579bc8f4e00c87088604c4af2cff57cac03a3fd312f2",
+    "original_sha256": "88390d564764d7bfaaa8579bc8f4e00c87088604c4af2cff57cac03a3fd312f2",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-report/main/analysis.json",
+    "sha256": "d331de4afd1027e411691e3499f7c7543e58c563d8bbc1cc786e89c9898855c2",
+    "original_sha256": "d331de4afd1027e411691e3499f7c7543e58c563d8bbc1cc786e89c9898855c2",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-external-report/audit.json",
+    "sha256": "3d0f1dd77f7296f0e2cc6ec4c65843e242915797492a9e944f8b6d2df3e8a7fb",
+    "original_sha256": "3d0f1dd77f7296f0e2cc6ec4c65843e242915797492a9e944f8b6d2df3e8a7fb",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-external-report/qwen/analysis.json",
+    "sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+    "original_sha256": "dd7ad7093f88e4543a85d06775a16d0710870e6f50f26c14d93238b20e5ea5e7",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-external-report/deterministic/analysis.json",
+    "sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+    "original_sha256": "ae694039de9e35f36243b91227fd6c49dd4d56353aa5e80e084964e5ce5693b4",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-closeout-v2/closure.json",
+    "sha256": "870a3757a9f67aa0ffc9e1fd3130ee2c6dd15e935e4191e9f0b608712d23df74",
+    "original_sha256": "870a3757a9f67aa0ffc9e1fd3130ee2c6dd15e935e4191e9f0b608712d23df74",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-ledger/resource_summary.json",
+    "sha256": "675344568607dbea025fe6fe8080397fde6e1aca9e53c00bb8eba97e9ff3d520",
+    "original_sha256": "675344568607dbea025fe6fe8080397fde6e1aca9e53c00bb8eba97e9ff3d520",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/summary/org-final-ledger/execution_org.tex",
+    "sha256": "d2473345f5511bad0a4339bfc4e72e5a13b6b9ee2187747f9c22ebee55c6d7c8",
+    "original_sha256": "d2473345f5511bad0a4339bfc4e72e5a13b6b9ee2187747f9c22ebee55c6d7c8",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/resource_accounting_final.json",
+    "sha256": "0effb20ec62ea8eddfbdc74e40798bd6845037e080f09a635a084b0ff9f3fc4a",
+    "original_sha256": "0effb20ec62ea8eddfbdc74e40798bd6845037e080f09a635a084b0ff9f3fc4a",
+    "metadata_redacted": false
+  },
+  {
+    "path": "results/completeness.json",
+    "sha256": "50e025d297c30e9b376426bc0b2f9196e8d6255e0348660a497dacb490431905"
+  },
+  {
+    "path": "results/artifact_audit.json",
+    "sha256": "95af7f188192c5d36bca7c8f41310cd56c97dbd73f82fda2af1879c758d96a2f"
+  }
+]

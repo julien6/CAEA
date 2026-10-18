@@ -1,0 +1,94 @@
+{
+  "complete": true,
+  "new_replayed_episodes": 35840,
+  "study": {
+    "main_episodes": 19200,
+    "robust_episodes": 16000,
+    "synthetic_llm_episodes": 192,
+    "synthetic_exact_episodes": 192,
+    "external_llm_episodes": 128,
+    "external_deterministic_episodes": 128,
+    "main_negative_controls_exact": true
+  },
+  "replays": {
+    "org-final-numeric-replay-0": {
+      "episodes": 7040,
+      "runs": {
+        "org-final-main-0": 3840,
+        "org-final-robust-0": 3200
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    },
+    "org-final-numeric-replay-1": {
+      "episodes": 7040,
+      "runs": {
+        "org-final-main-1": 3840,
+        "org-final-robust-1": 3200
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    },
+    "org-final-numeric-replay-2": {
+      "episodes": 7040,
+      "runs": {
+        "org-final-main-2": 3840,
+        "org-final-robust-2": 3200
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    },
+    "org-final-numeric-replay-3": {
+      "episodes": 7040,
+      "runs": {
+        "org-final-main-3": 3840,
+        "org-final-robust-3": 3200
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    },
+    "org-final-numeric-replay-4": {
+      "episodes": 7040,
+      "runs": {
+        "org-final-main-4": 3840,
+        "org-final-robust-4": 3200
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    },
+    "org-final-documentary-validation-v4": {
+      "episodes": 640,
+      "runs": {
+        "org-final-synthetic-recovered-v2": 192,
+        "org-final-synthetic-oracle": 192,
+        "org-final-external-llm": 128,
+        "org-final-external-control": 128
+      },
+      "traces_exact": true,
+      "messages_exact": true,
+      "case_hashes_exact": true,
+      "metrics_tolerance": 1e-12,
+      "llm_inference": false
+    }
+  },
+  "unit_tests": 33,
+  "external_tasks": 20,
+  "external_test_tasks": 16,
+  "independent_external_scenarios": 1,
+  "scope": "Computational completion and artifact integrity; no claim of favorable results, human annotation audit, publication or acceptance."
+}

@@ -1,0 +1,19 @@
+{
+  "run": "org-tests-v4",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 188,
+      "sha256": "7434f2519e052612bbed31dfbea7ec29f99e4880456a0d82e13cd32dd9c0285d"
+    }
+  ]
+}

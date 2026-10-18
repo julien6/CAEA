@@ -1,0 +1,1710 @@
+{
+  "episodes": 192,
+  "external_descriptive": false,
+  "negative_controls_exact": false,
+  "summaries": [
+    {
+      "setting": "mixed",
+      "organization": "CENT",
+      "policy": "caea",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.15217826932718248,
+      "auc_ci": [
+        0.13098449400408957,
+        0.17350804565185
+      ],
+      "bids": 0.0,
+      "brier": 0.1180001955252683,
+      "brier_ci": [
+        0.08076068844965693,
+        0.15757861038215976
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 48.0,
+      "dependency_completion": 0.7525793650793652,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 21.416666666666668,
+      "elapsed_ci": [
+        21.045833333333338,
+        21.833333333333332
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.010170814690529453,
+      "message_bytes": 277245.7916666667,
+      "messages": 85.04166666666667,
+      "refusals": 0.9583333333333334,
+      "rounds": 15.0,
+      "utility": 0.4376300894288096,
+      "utility_ci": [
+        0.37058013748307334,
+        0.5011217118982924
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "CENT",
+      "policy": "joint",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.08996031249356035,
+      "auc_ci": [
+        0.07188895416101232,
+        0.1090261327527813
+      ],
+      "bids": 0.0,
+      "brier": 0.17468268211767235,
+      "brier_ci": [
+        0.1386042306079389,
+        0.21297786234160915
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 48.0,
+      "dependency_completion": 0.20881283068783066,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 20.725000000000005,
+      "elapsed_ci": [
+        20.337500000000002,
+        21.108333333333338
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.01145134228187919,
+      "message_bytes": 272939.2916666667,
+      "messages": 86.0,
+      "refusals": 1.0,
+      "rounds": 15.166666666666666,
+      "utility": 0.2796510385983962,
+      "utility_ci": [
+        0.22605816217098265,
+        0.3337497490420938
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "COAL",
+      "policy": "caea",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.15217826932718248,
+      "auc_ci": [
+        0.13110164268642913,
+        0.17374098561393664
+      ],
+      "bids": 0.0,
+      "brier": 0.1180001955252683,
+      "brier_ci": [
+        0.08078306242096618,
+        0.15857257122935212
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 48.0,
+      "dependency_completion": 0.7525793650793652,
+      "dissolutions": 8.708333333333334,
+      "duplicates": 0.0,
+      "elapsed": 21.416666666666668,
+      "elapsed_ci": [
+        21.045833333333338,
+        21.84166666666667
+      ],
+      "expirations": 0.0,
+      "formations": 9.708333333333334,
+      "mae": 0.010170814690529453,
+      "message_bytes": 436471.4166666667,
+      "messages": 245.79166666666666,
+      "refusals": 0.9166666666666666,
+      "rounds": 15.0,
+      "utility": 0.4376300894288096,
+      "utility_ci": [
+        0.3703272204749313,
+        0.5013746289064344
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "COAL",
+      "policy": "joint",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.08996031249356035,
+      "auc_ci": [
+        0.07135899972166675,
+        0.10867869416873509
+      ],
+      "bids": 0.0,
+      "brier": 0.17468268211767235,
+      "brier_ci": [
+        0.14017159681766922,
+        0.21173676267085068
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 48.0,
+      "dependency_completion": 0.20939153439153438,
+      "dissolutions": 5.041666666666667,
+      "duplicates": 0.0,
+      "elapsed": 20.725000000000005,
+      "elapsed_ci": [
+        20.358333333333338,
+        21.125000000000004
+      ],
+      "expirations": 0.0,
+      "formations": 6.041666666666667,
+      "mae": 0.01145134228187919,
+      "message_bytes": 430933.2916666667,
+      "messages": 233.41666666666666,
+      "refusals": 0.9166666666666666,
+      "rounds": 15.166666666666666,
+      "utility": 0.2796510385983962,
+      "utility_ci": [
+        0.22605183924577907,
+        0.3337497490420938
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "MKT",
+      "policy": "caea",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.1594888826832642,
+      "auc_ci": [
+        0.13354584018596766,
+        0.18752340593884764
+      ],
+      "bids": 134.625,
+      "brier": 0.10492976613735634,
+      "brier_ci": [
+        0.07204855021072279,
+        0.13900536067887095
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 47.916666666666664,
+      "dependency_completion": 0.7571428571428571,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 21.979166666666668,
+      "elapsed_ci": [
+        21.158333333333335,
+        22.90416666666667
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.015545768083519757,
+      "message_bytes": 66303.41666666667,
+      "messages": 216.375,
+      "refusals": 3.3333333333333335,
+      "rounds": 15.625,
+      "utility": 0.4759767526588747,
+      "utility_ci": [
+        0.41526905708649386,
+        0.537955796125155
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "MKT",
+      "policy": "joint",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.10090797862338297,
+      "auc_ci": [
+        0.08010055402476313,
+        0.12010538156492931
+      ],
+      "bids": 133.125,
+      "brier": 0.1616279021112388,
+      "brier_ci": [
+        0.13194981083136167,
+        0.1944058107783274
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 0.0,
+      "cost": 48.0,
+      "dependency_completion": 0.22020502645502646,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 20.295833333333334,
+      "elapsed_ci": [
+        19.87916666666667,
+        20.700000000000003
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.017462481357196122,
+      "message_bytes": 66235.70833333333,
+      "messages": 219.25,
+      "refusals": 1.5416666666666667,
+      "rounds": 15.458333333333334,
+      "utility": 0.2887991656672884,
+      "utility_ci": [
+        0.26137104856310994,
+        0.3175081319146753
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "P2P",
+      "policy": "caea",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.18518271964377794,
+      "auc_ci": [
+        0.16135522116681,
+        0.20669824748870955
+      ],
+      "bids": 0.0,
+      "brier": 0.10835915364110334,
+      "brier_ci": [
+        0.07783242748799032,
+        0.14073569342094763
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 42.916666666666664,
+      "cost": 47.791666666666664,
+      "dependency_completion": 0.8362599206349207,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 36.97083333333335,
+      "elapsed_ci": [
+        35.354166666666686,
+        38.68343750000002
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.00435208991869624,
+      "message_bytes": 104617.25,
+      "messages": 331.3333333333333,
+      "refusals": 1.75,
+      "rounds": 28.458333333333332,
+      "utility": 0.46100094783193296,
+      "utility_ci": [
+        0.4063964033719512,
+        0.514845544689216
+      ]
+    },
+    {
+      "setting": "mixed",
+      "organization": "P2P",
+      "policy": "joint",
+      "cases": 24,
+      "episodes": 24,
+      "auc": 0.09533068200110882,
+      "auc_ci": [
+        0.07268158895973395,
+        0.11806483463717678
+      ],
+      "bids": 0.0,
+      "brier": 0.1732187114996905,
+      "brier_ci": [
+        0.12973303608135875,
+        0.22321014318674332
+      ],
+      "communication_cost": 0.0,
+      "conflicts": 29.833333333333332,
+      "cost": 47.5,
+      "dependency_completion": 0.23645833333333333,
+      "dissolutions": 0.0,
+      "duplicates": 0.0,
+      "elapsed": 32.850000000000016,
+      "elapsed_ci": [
+        30.700000000000014,
+        34.96281250000001
+      ],
+      "expirations": 0.0,
+      "formations": 0.0,
+      "mae": 0.017013888888888887,
+      "message_bytes": 96537.125,
+      "messages": 308.6666666666667,
+      "refusals": 5.833333333333333,
+      "rounds": 25.166666666666668,
+      "utility": 0.29108477805158256,
+      "utility_ci": [
+        0.2491785580854974,
+        0.3289331574503338
+      ]
+    }
+  ],
+  "contrasts": [
+    {
+      "setting": "mixed",
+      "organization": "CENT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "auc",
+      "delta": 0.06221795683362213,
+      "ci": [
+        0.041644375259506275,
+        0.08269519357744225
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "CENT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "utility",
+      "delta": 0.1579790508304134,
+      "ci": [
+        0.08812319750764629,
+        0.23442191480193478
+      ],
+      "p": 0.00029997000299970003,
+      "family": "main",
+      "p_holm": 0.0005999400059994001
+    },
+    {
+      "setting": "mixed",
+      "organization": "CENT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "elapsed",
+      "delta": 0.6916666666666664,
+      "ci": [
+        0.10822916666666589,
+        1.262604166666667
+      ],
+      "p": 0.032996700329967,
+      "family": "main",
+      "p_holm": 0.06579342065793421
+    },
+    {
+      "setting": "mixed",
+      "organization": "COAL",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "auc",
+      "delta": 0.06221795683362213,
+      "ci": [
+        0.040830321309419125,
+        0.08353426050189403
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "COAL",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "utility",
+      "delta": 0.1579790508304134,
+      "ci": [
+        0.09066985895133155,
+        0.2324049016620021
+      ],
+      "p": 0.00039996000399960006,
+      "family": "main",
+      "p_holm": 0.0005999400059994001
+    },
+    {
+      "setting": "mixed",
+      "organization": "COAL",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "elapsed",
+      "delta": 0.6916666666666664,
+      "ci": [
+        0.11666666666666596,
+        1.2376041666666673
+      ],
+      "p": 0.032896710328967106,
+      "family": "main",
+      "p_holm": 0.06579342065793421
+    },
+    {
+      "setting": "mixed",
+      "organization": "MKT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "auc",
+      "delta": 0.05858090405988123,
+      "ci": [
+        0.03684933865713869,
+        0.07891219166995302
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "MKT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "utility",
+      "delta": 0.18717758699158618,
+      "ci": [
+        0.1267242389883955,
+        0.24610550419595686
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "MKT",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "elapsed",
+      "delta": 1.6833333333333342,
+      "ci": [
+        0.8457291666666663,
+        2.5876041666666696
+      ],
+      "p": 0.0007999200079992001,
+      "family": "main",
+      "p_holm": 0.0031996800319968005
+    },
+    {
+      "setting": "mixed",
+      "organization": "P2P",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "auc",
+      "delta": 0.0898520376426691,
+      "ci": [
+        0.06749910807724017,
+        0.11204083204909779
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "P2P",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "utility",
+      "delta": 0.1699161697803504,
+      "ci": [
+        0.10845581212597173,
+        0.22731909611388687
+      ],
+      "p": 9.999000099990002e-05,
+      "family": "main",
+      "p_holm": 0.00039996000399960006
+    },
+    {
+      "setting": "mixed",
+      "organization": "P2P",
+      "policy": "caea",
+      "baseline": "joint",
+      "metric": "elapsed",
+      "delta": 4.120833333333337,
+      "ci": [
+        1.1873958333333328,
+        7.087708333333342
+      ],
+      "p": 0.013498650134986502,
+      "family": "main",
+      "p_holm": 0.040495950404959506
+    }
+  ],
+  "temporal": [
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 14.708333333333334,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 16.708333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 20.708333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.44169425292134706,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 15.679166666666665,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 17.679166666666664,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 21.679166666666664,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.2578127190868565,
+      "reach_rate": 0.5,
+      "restricted_time_to_025": 22.666666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 26.416666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 30.416666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.12624198527680439,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.12624198527680439,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.10160408731343736,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.29159061206786663,
+      "reach_rate": 0.5416666666666666,
+      "restricted_time_to_025": 20.83362904385183,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.42493176493491297,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 25.220289726028398,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 29.220289726028398,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.2791452045821121,
+      "reach_rate": 0.5416666666666666,
+      "restricted_time_to_025": 21.379462377185163,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.42493176493491297,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 26.19112305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 30.19112305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.13437031226187937,
+      "reach_rate": 0.041666666666666664,
+      "restricted_time_to_025": 23.82579765986336,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.38327846197696996,
+      "reach_rate": 0.8333333333333334,
+      "restricted_time_to_025": 34.600232291262444,
+      "episodes": 24
+    },
+    {
+      "organization": "CENT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 38.92862305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.32740810521651126,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 19.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 22.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 28.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.29642165863607933,
+      "reach_rate": 0.7083333333333334,
+      "restricted_time_to_025": 20.14166666666667,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 23.345833333333335,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 29.345833333333335,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.1262419852768044,
+      "reach_rate": 0.041666666666666664,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.36195288127319664,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 35.458333333333336,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 41.458333333333336,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.07315494286567491,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.07315494286567491,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.05689828889552493,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.2512100262018828,
+      "reach_rate": 0.4583333333333333,
+      "restricted_time_to_025": 21.066704015585994,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.44830262333803633,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 27.288203485866404,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 33.288203485866404,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.245620228609244,
+      "reach_rate": 0.4583333333333333,
+      "restricted_time_to_025": 21.729204015585992,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.44398554283735686,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 28.634036819199736,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 34.634036819199736,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.1016040873134374,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.2842291681584668,
+      "reach_rate": 0.625,
+      "restricted_time_to_025": 39.782362580726875,
+      "episodes": 24
+    },
+    {
+      "organization": "P2P",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.46100094783193296,
+      "reach_rate": 0.875,
+      "restricted_time_to_025": 46.74653681919974,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 14.708333333333334,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 16.708333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 20.708333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.44169425292134706,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 15.679166666666665,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 17.679166666666664,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 21.679166666666664,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.2578127190868565,
+      "reach_rate": 0.5,
+      "restricted_time_to_025": 22.666666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 26.416666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 30.416666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.12624198527680439,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.12624198527680439,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.10160408731343736,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 96.0,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.29159061206786663,
+      "reach_rate": 0.5416666666666666,
+      "restricted_time_to_025": 20.83362904385183,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.42493176493491297,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 25.220289726028398,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 29.220289726028398,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.2791452045821121,
+      "reach_rate": 0.5416666666666666,
+      "restricted_time_to_025": 21.379462377185163,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.42493176493491297,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 26.19112305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 30.19112305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.13437031226187937,
+      "reach_rate": 0.041666666666666664,
+      "restricted_time_to_025": 23.82579765986336,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.38327846197696996,
+      "reach_rate": 0.8333333333333334,
+      "restricted_time_to_025": 34.600232291262444,
+      "episodes": 24
+    },
+    {
+      "organization": "COAL",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4376300894288096,
+      "reach_rate": 0.9166666666666666,
+      "restricted_time_to_025": 38.92862305936173,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 13.291666666666666,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 14.291666666666666,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 16.291666666666668,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 14.283333333333331,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 15.283333333333331,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 17.28333333333333,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.2633943846282462,
+      "reach_rate": 0.5833333333333334,
+      "restricted_time_to_025": 21.458333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 24.208333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "linear",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 26.208333333333332,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.13894030977070096,
+      "reach_rate": 0.16666666666666666,
+      "restricted_time_to_025": 94.16666666666667,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.13894030977070096,
+      "reach_rate": 0.16666666666666666,
+      "restricted_time_to_025": 94.29166666666667,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 24.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.0,
+      "reach_rate": 0.0,
+      "restricted_time_to_025": 48.0,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "slow",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.10642700183040099,
+      "reach_rate": 0.08333333333333333,
+      "restricted_time_to_025": 95.20833333333333,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 24,
+      "utility_at_horizon": 0.3093647680868689,
+      "reach_rate": 0.6666666666666666,
+      "restricted_time_to_025": 19.389250680982613,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 48,
+      "utility_at_horizon": 0.45870843065615646,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 21.87037828353574,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 23.87037828353574,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 24,
+      "utility_at_horizon": 0.3012364411017939,
+      "reach_rate": 0.625,
+      "restricted_time_to_025": 19.98856214581168,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 48,
+      "utility_at_horizon": 0.45870843065615646,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 22.862044950202403,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 0.1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 24.862044950202403,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 24,
+      "utility_at_horizon": 0.14732155376391798,
+      "reach_rate": 0.25,
+      "restricted_time_to_025": 22.968988776578087,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 48,
+      "utility_at_horizon": 0.44169302566158036,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 31.787044950202404,
+      "episodes": 24
+    },
+    {
+      "organization": "MKT",
+      "setting": "mixed",
+      "duration_model": "lognormal",
+      "sync": 1,
+      "horizon": 96,
+      "utility_at_horizon": 0.4759767526588747,
+      "reach_rate": 0.9583333333333334,
+      "restricted_time_to_025": 33.78704495020241,
+      "episodes": 24
+    }
+  ],
+  "bootstrap": 4000,
+  "signflip": 10000,
+  "seed": 20261018
+}

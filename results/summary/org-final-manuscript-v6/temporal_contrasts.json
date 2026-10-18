@@ -1,0 +1,338 @@
+[
+  {
+    "organization": "CENT",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.22254381540303647,
+    "ci": [
+      0.18290241125605866,
+      0.2629002983515736
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "CENT",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.2
+    ],
+    "p": 0.0164983501649835,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "CENT",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.21163622692147474,
+    "ci": [
+      0.17189478258459695,
+      0.2505232760609698
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "CENT",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.19
+    ],
+    "p": 0.015598440155984402,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "CENT",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.16994768653307077,
+    "ci": [
+      0.12903684357898562,
+      0.2106123433419018
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "CENT",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.1,
+    "ci": [
+      0.02,
+      0.19
+    ],
+    "p": 0.039996000399960006,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "P2P",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.10532603147645363,
+    "ci": [
+      0.07575713351837207,
+      0.13427844881476614
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "P2P",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.2
+    ],
+    "p": 0.0174982501749825,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "P2P",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.19699978791789274,
+    "ci": [
+      0.15853390631899408,
+      0.23509656582071023
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "P2P",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.19
+    ],
+    "p": 0.0150984901509849,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "P2P",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.07686652269934123,
+    "ci": [
+      0.0432146409134961,
+      0.10954255454111016
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "P2P",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.05,
+    "ci": [
+      -0.03,
+      0.14
+    ],
+    "p": 0.3752624737526247,
+    "cases": 50,
+    "p_holm": 0.3752624737526247
+  },
+  {
+    "organization": "COAL",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.22254381540303647,
+    "ci": [
+      0.18352603783226235,
+      0.26411460862557357
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "COAL",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.2
+    ],
+    "p": 0.015498450154984501,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "COAL",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.11456947157433102,
+    "ci": [
+      0.07772373338268727,
+      0.15467984725869888
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "COAL",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.11,
+    "ci": [
+      0.04,
+      0.2
+    ],
+    "p": 0.0173982601739826,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  },
+  {
+    "organization": "COAL",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": -0.08509023481351256,
+    "ci": [
+      -0.1231946563824404,
+      -0.04558758868128055
+    ],
+    "p": 0.00039996000399960006,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "COAL",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": -0.18,
+    "ci": [
+      -0.3,
+      -0.07
+    ],
+    "p": 0.0047995200479952005,
+    "cases": 50,
+    "p_holm": 0.05759424057594241
+  },
+  {
+    "organization": "MKT",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.1780480467910342,
+    "ci": [
+      0.14153224902853273,
+      0.2109640970701169
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "MKT",
+    "workers": 2,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.1,
+    "ci": [
+      0.04,
+      0.17
+    ],
+    "p": 0.0100989901009899,
+    "cases": 50,
+    "p_holm": 0.100989901009899
+  },
+  {
+    "organization": "MKT",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.17187022514900613,
+    "ci": [
+      0.13740299987695118,
+      0.20567131784967532
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "MKT",
+    "workers": 4,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.1,
+    "ci": [
+      0.04,
+      0.17
+    ],
+    "p": 0.0084991500849915,
+    "cases": 50,
+    "p_holm": 0.09349065093490651
+  },
+  {
+    "organization": "MKT",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "utility_at_48",
+    "delta": 0.1865969927706453,
+    "ci": [
+      0.14947148831145257,
+      0.22372593108361719
+    ],
+    "p": 9.999000099990002e-05,
+    "cases": 50,
+    "p_holm": 0.0011998800119988001
+  },
+  {
+    "organization": "MKT",
+    "workers": 8,
+    "baseline_workers": 1,
+    "metric": "reach_025_at_48",
+    "delta": 0.09,
+    "ci": [
+      0.02,
+      0.17
+    ],
+    "p": 0.028997100289971003,
+    "cases": 50,
+    "p_holm": 0.13588641135886412
+  }
+]

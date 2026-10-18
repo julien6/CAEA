@@ -1,0 +1,8 @@
+{
+  "schema": 2,
+  "description": "Descriptive contract for executable protocols in caea.org_v2; not a MOISE runtime",
+  "CENT": {"authority": "coordinator", "knowledge": "coordinator observations plus assigned worker snapshots", "allocation": "reserved batches", "messages": ["RESULT", "CENT_ASSIGN"]},
+  "P2P": {"authority": "local worker", "knowledge": "local observations and delivered ring messages", "allocation": "local proposals with neighbour intent resolution", "messages": ["INTENT", "EVIDENCE_UPDATE"]},
+  "COAL": {"authority": "temporary coalition leader", "maximum_members": 3, "knowledge": "observations received within the group", "allocation": "group reservations and independent uncommitted workers", "messages": ["COAL_INVITE", "COAL_JOIN", "COAL_ASSIGN", "EVIDENCE_UPDATE"], "termination": "goal read/discovered or three rounds without new observed events"},
+  "MKT": {"authority": "bidders and cooperative auctioneer", "knowledge": "local bids; explicit result bulletin", "allocation": "one-round sealed bids, greedy compatible worker/action pairs", "messages": ["BID", "AWARD", "MARKET_RESULT", "EVIDENCE_UPDATE"], "strategic_incentive_claim": false}
+}

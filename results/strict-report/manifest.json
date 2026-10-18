@@ -1,0 +1,33 @@
+{
+  "run": "strict-report",
+  "files": [
+    {
+      "path": "config.json",
+      "size": 106,
+      "sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "original_sha256": "757eb309e2f39a23e3f94b2701d8bf0a95402c0f02b2e2a1921222d3e0f65397",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/results_strict.tex",
+      "size": 3971,
+      "sha256": "8a393969439d1fb5ce45d51b946e84567dfbfe3734c414eafb2a5f6a50db8b0a",
+      "original_sha256": "8a393969439d1fb5ce45d51b946e84567dfbfe3734c414eafb2a5f6a50db8b0a",
+      "metadata_redacted": false
+    },
+    {
+      "path": "outputs/strict_report.json",
+      "size": 14544,
+      "sha256": "7e975d974238a1b1267bc33469a81a17fc6374b55576fbebb4beddebd0958734",
+      "original_sha256": "ae37b6dfd8ec0d51a8e8e87f8e77f97c97860e68bb1ca1fce09643cb0e195b91",
+      "metadata_redacted": true
+    }
+  ],
+  "parts": [
+    {
+      "name": "data.tar.gz.part000",
+      "size": 4821,
+      "sha256": "f3b397bd6135422ceab7f42c9c3eaf1c43ef53b267b1016f3847e414e59f166e"
+    }
+  ]
+}
