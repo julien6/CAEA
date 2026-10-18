@@ -66,5 +66,5 @@ filename reference. Failed calls remain in the audit.
 
 External data and model weights retain their upstream terms. No new blanket
 software license is inferred from their licenses; check the repository's actual
-license terms before redistribution. The manuscript and supplementary PDF are supplied separately from this
-implementation-and-results repository.
+license terms before redistribution. The self-contained manuscript is supplied separately from this implementation-and-results
+repository; it does not require an auxiliary document.

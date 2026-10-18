@@ -1,10 +1,9 @@
 # CAEA — Cooperative Active Evidence Acquisition
 
-This is the anonymous research artifact accompanying **“Multi-Agent Investigation
-under a Budget: Cooperative Acquisition of Complementary Evidence.”**
+This is the anonymous research artifact accompanying **“Following Leads in Budgeted Multi-Agent Investigation.”**
 The artifact provides the implementation, configurations, recorded observations,
-results, external tasks and reproduction details. The manuscript and its
-supplementary PDF are supplied separately through the submission system; `paper/`
+results, external tasks and reproduction details. The self-contained manuscript is supplied through the submission system; no
+auxiliary document is required to assess its contribution. `paper/`
 and author working documents are intentionally excluded from this repository.
 
 ## Start here

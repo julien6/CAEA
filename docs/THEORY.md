@@ -1,7 +1,7 @@
 # Formal results and their scope
 
 These statements summarize the finalized mechanism study. Complete statements,
-assumptions and proof arguments are also in the submitted article and companion.
+assumptions and proof arguments are in the submitted article itself.
 No new theoretical guarantee is introduced by this artifact documentation.
 
 1. **Observable non-interference.** Fixed local parameters and seeds, initial

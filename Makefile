@@ -1,15 +1,10 @@
 .DEFAULT_GOAL := help
 
-.PHONY: help verify-artifact unpack-artifact paper paper-diagram paper-supplement paper-legacy inspect
-paper: paper-diagram paper-supplement
-	cd paper/icaart && latexmk -pdf -interaction=nonstopmode -halt-on-error research.tex
+.PHONY: help verify-artifact unpack-artifact paper paper-clean inspect
+paper:
 	cd paper/icaart && latexmk -pdf -interaction=nonstopmode -halt-on-error submission.tex
-paper-supplement:
-	cd paper/icaart && latexmk -pdf -interaction=nonstopmode -halt-on-error supplementary.tex
-paper-diagram:
-	cd paper/icaart/figures && latexmk -pdf -interaction=nonstopmode -halt-on-error caea_overview_standalone.tex
-paper-legacy:
-	cd paper && latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+paper-clean:
+	cd paper/icaart && latexmk -c submission.tex
 inspect:
 	git status --short
 
